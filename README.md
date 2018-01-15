@@ -3,7 +3,7 @@ COGS 532 - Theoretical Linguistics - Informatics Institute, METU
 
 Tuesday, 8:40-11:30, S01, Informatics Institute
 
-Instructor: [Umut Özge](https//umutozge.github.io)
+Instructor: [Umut Özge](https://umutozge.github.io)
 
 ### Weekly Schedule
 
