@@ -24,3 +24,18 @@ Instructor: [Umut Özge](https://umutozge.github.io)
 13  | May 8  | Special Topic: Nominalization II  
 14  | May 15 | Special Topic: Negative polarity I  
 15  | May 22 | Special Topic: Negative polarity II  
+
+
+### Requirements
+
+* Participation (10%): coming to class having read the week's reading and contributing to class discussion.
+* Assignments (40%): not graded, submitting on time gets full credit, late up to a week gets half-credit.
+* Term paper (50%): 
+	* Proposal (Mar 27, 10%), a max one-page declaration of the topic of your term-paper.
+	* First draft (May 8, 20%). 
+	* Final paper (Jun 6, 20%).
+	* **All deadlines are strict, just send what you have.**
+
+### Attendance
+
+* 2 misses **with prior notification** is OK; each further miss costs a letter (BB -> CB).
