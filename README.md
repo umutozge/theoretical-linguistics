@@ -5,12 +5,12 @@ Tuesday, 8:40-11:30, S01, Informatics Institute
 
 Instructor: [Umut Özge](https://umutozge.github.io)
 
-### Weekly Schedule
+### Weekly Schedule (tentative)
 
-|Week| Date   | Topic | Reading | Assignment |
-:---|:---|:---|:---|---: 
-1   | Feb 13 | Course info  |   
-2   | Feb 20 | General introduction |
+|Week| Date   | Topic | Notes |  Assignment | Reading |
+:---|:---|:---|:---|:---|:---
+1   | Feb 13 | Introducing the course |
+2   | Feb 20 | General introduction | [00_introduction.pdf](notes/00_introduction.pdf) |  | [Chomsky (1957), pp. 11-25](readings/chomsky57-pp-11-25.pdf) | 
 3   | Feb 27 | Categories and features   
 4   | Mar 6  | Argument structure  
 5   | Mar 13 | Constituency and phrase structure  
@@ -29,13 +29,13 @@ Instructor: [Umut Özge](https://umutozge.github.io)
 ### Requirements
 
 * Participation (10%): coming to class having read the week's reading and contributing to class discussion.
-* Assignments (40%): not graded, submitting on time gets full credit, late up to a week gets half-credit.
+* Assignments (40%): not graded, submitting on time gets full credit, late subs (up to a week) get half-credit.
 * Term paper (50%): 
-	* Proposal (Mar 27, 10%), a max one-page declaration of the topic of your term-paper.
-	* First draft (May 8, 20%). 
-	* Final paper (Jun 6, 20%).
-	* **All deadlines are strict, just send what you have.**
+	* Proposal (Mar 27, 10%), a max one-page declaration of the topic of your term-paper;
+	* First draft (May 8, 20%);
+	* Final paper (Jun 6, 20%);
+	* **All deadlines are strict, just send what you have by the deadline.**
 
 ### Attendance
 
-* 2 misses **with prior notification** is OK; each further miss costs a letter (BB -> CB).
+* 3 misses **with prior notification** is OK; each further miss costs a letter (BB -> CB).
