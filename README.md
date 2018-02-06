@@ -10,13 +10,13 @@ Conductor: [Umut Özge](https://umutozge.github.io)
 |Week| Date   | Topic | Notes |  Assignment | Reading |
 :---|:---|:---|:---|:---|:---
 1   | Feb 13 | Introducing the course |
-2   | Feb 20 | General introduction |  |  | [Chomsky (1957), pp. 11-25](readings/chomsky57-pp-11-25.pdf), [Sag et al. (2003), Sec. 1.2](sagetal03-sec1-2.pdf) | 
+2   | Feb 20 | Aims and scope of linguistic theory |  |  | [Chomsky (1957), pp. 11-25](readings/chomsky57-pp-11-25.pdf), [Sag et al. (2003), Sec. 1.2](sagetal03-sec1-2.pdf) | 
 3   | Feb 27 | Categories and features   
 4   | Mar 6  | Argument structure  
 5   | Mar 13 | Constituency and phrase structure  
 6   | Mar 20 | Bounded phenomena I: passive, causative  
-7   | Mar 27 | Bounded phenomena II: control, raising  
-8   | Apr 3  | Unbounded phenomena I: binding  
+7   | Mar 27 | Bounded phenomena II: control, raising, anaphor binding
+8   | Apr 3  | Unbounded phenomena I: pronoun binding  
 9   | Apr 10 | Unbounded phenomena II: wh-movement  
 10  | Apr 17 | Unbounded phenomena III: quantifier raising  
 11  | Apr 24 | Special Topic: Nominalization I  
@@ -29,6 +29,10 @@ Conductor: [Umut Özge](https://umutozge.github.io)
 
 * [Lecture notes](notes/cogs532-lecture-notes.pdf); check regularly for updates.
 * Weekly readings
+* Books:  
+	Carnie, A. (2011). Modern Syntax: A Coursebook. Cambridge University Press, UK.  
+	Borsley, R. D. and Börjars, K. (2011). Non-transformational Syntax: Formal and Explicit Theories of Grammar. Wiley-Blackwell, UK.  
+	Sag, I. A., Wasow, T., and Bender, E. M. (2003). Syntactic Theory: A Formal Introduction. CSLI, Stanford, CA.  
 
 ### Requirements
 
@@ -45,3 +49,7 @@ Conductor: [Umut Özge](https://umutozge.github.io)
 ### Attendance
 
 * 3 misses **with prior notification** is OK; each further miss downgrades a letter (BB -> CB).
+* Please be on time.
+
+### License
+The textual content of this course is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), and the accompanying source code is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
