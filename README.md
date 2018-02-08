@@ -31,17 +31,25 @@ Conductor: [Umut Özge](https://umutozge.github.io)
 * Weekly readings
 * Books:  
 	Carnie, A. (2011). Modern Syntax: A Coursebook. Cambridge University Press, UK.  
-	Borsley, R. D. and Börjars, K. (2011). Non-transformational Syntax: Formal and Explicit Theories of Grammar. Wiley-Blackwell, UK.  
 	Sag, I. A., Wasow, T., and Bender, E. M. (2003). Syntactic Theory: A Formal Introduction. CSLI, Stanford, CA.  
+	Borsley, R. D. and Börjars, K. (2011). Non-transformational Syntax: Formal and Explicit Theories of Grammar. Wiley-Blackwell, UK.  
+
+### Communication
+
+* Announcements are made in the class.
+* Regularly check this page for assignments, readings, notes, etc.
+* Primary forum of discussion is the class.
+	* use the [newsgroup](https://groups.google.com/forum/#!forum/metu-cogs-532-theoretical-linguistics) for follow-up comments, questions etc.
+
 
 ### Requirements
 
-* Participation (10%): coming to class having read the week's reading and contributing to discussion.
+* Participation (10%): coming to class having read the week's reading and contributing to discussion (oral and/or written).
 * Assignments (30%): not graded, submitting on time gets full credit, late subs (up to a week) get half-credit.
 * Term paper (40%): 
 	* Proposal (Mar 27, 5%, not graded), a max one-page declaration of the topic of your term-paper;
-	* Literature review (Apr 24, 10%), at least 5 papers related to your topic summarized/evaluated;
-	* Presentation (May 15 or May 22, 10%, not graded);
+	* Literature review (Apr 24, 10%), at least 4 important papers related to your topic summarized/evaluated;
+	* Presentation (at one of May 8, 15 or 22, 10%, not graded;
 	* Final paper (Jun 6, 15%);
 	* **All deadlines are strict, just send what you have by the deadline.**
 * Review exam (Jun 4, 20%), a 2hr exam with questions similar to assignments.
