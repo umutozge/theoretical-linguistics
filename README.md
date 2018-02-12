@@ -30,8 +30,8 @@ Conductor: [Umut Özge](https://umutozge.github.io)
 * [Lecture notes](notes/cogs532-lecture-notes.pdf); check regularly for updates.
 * Weekly readings
 * Books:  
-	Carnie, A. (2011). Modern Syntax: A Coursebook. Cambridge University Press, UK.  
 	Sag, I. A., Wasow, T., and Bender, E. M. (2003). Syntactic Theory: A Formal Introduction. CSLI, Stanford, CA.  
+	Carnie, A. (2011). Modern Syntax: A Coursebook. Cambridge University Press, UK.  
 	Borsley, R. D. and Börjars, K. (2011). Non-transformational Syntax: Formal and Explicit Theories of Grammar. Wiley-Blackwell, UK.  
 
 ### Communication
@@ -58,6 +58,10 @@ Conductor: [Umut Özge](https://umutozge.github.io)
 
 * 3 misses **with prior notification** is OK; each further miss downgrades a letter (BB -> CB).
 * Please be on time.
+
+### Assistance and support 
+
+* Please get in contact with the conductor of the course for any assistance or support you may require for participating in this course.
 
 ### License
 The textual content of this course is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), and the accompanying source code is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
