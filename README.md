@@ -1,7 +1,7 @@
 # Theoretical Linguistics
 COGS 532 - Theoretical Linguistics - Informatics Institute, METU
 
-Tuesday, 8:40-11:30, S01, Informatics Institute
+Tuesday, 9:00-11:30, S01, Informatics Institute
 
 [Umut Özge](https://umutozge.github.io)  
 Office hours: Wednesday, 12:00-14:00, Room B208  
