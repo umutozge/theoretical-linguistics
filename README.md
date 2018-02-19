@@ -12,7 +12,7 @@ Office hours: Wednesday, 12:00-14:00, Room B208
 |Week| Date   | Topic | Notes |  Assignment | Reading |
 :---|:---|:---|:---|:---|:---
 1   | Feb 13 | Introducing the course |
-2   | Feb 20 | Aims and scope of linguistic theory | | [assignment-01](assignments/cogs532-assignment-01.pdf) | [Chomsky (1957), pp. 11-25](readings/chomsky57-pp-11-25.pdf), [Sag et al. (2003), Sec. 1.2](readings/sagetal03-sec-1-2.pdf) |    
+2   | Feb 20 | Aims and scope of linguistic theory |Section 1| [assignment-01](assignments/cogs532-assignment-01.pdf) | [Chomsky (1957), pp. 11-25](readings/chomsky57-pp-11-25.pdf), [Sag et al. (2003), Sec. 1.2](readings/sagetal03-sec-1-2.pdf) |    
 3   | Feb 27 | Categories and features   
 4   | Mar 6  | Argument structure  
 5   | Mar 13 | Constituency and phrase structure  
@@ -63,7 +63,7 @@ Office hours: Wednesday, 12:00-14:00, Room B208
 
 ### Assistance and support 
 
-* Please get in contact with the instructor for any assistance or support you may require for participating in this course.
+* Please get in contact with the instructor for any assistance you may require for participating in this course.
 
 ### License
 The textual content of this course is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), and the accompanying source code is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
