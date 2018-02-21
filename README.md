@@ -12,8 +12,8 @@ Office hours: Wednesday, 12:00-14:00, Room B208
 |Week| Date   | Topic | Notes |  Assignment | Reading |
 :---|:---|:---|:---|:---|:---
 1   | Feb 13 | Introducing the course |
-2   | Feb 20 | Aims and scope of linguistic theory |Section 1| [A01](assignments/cogs532-assignment-01.pdf) | [Chomsky (1957), pp. 11-25](readings/chomsky57-pp-11-25.pdf), [Sag et al. (2003), Sec. 1.2](readings/sagetal03-sec-1-2.pdf) |    
-3   | Feb 27 | Aims and scope (cont.) +  Phrase structure | | [A02](assignments/cogs532-assignment-02.pdf) | [Chomsky (1957), pp. 26-56](readings/chomsky57-pp-26-56.pdf), [Sag et al. (2003), Ch. 2](readings/sagetal03-ch-2.pdf)  
+2   | Feb 20 | Aims and scope of linguistic theory |Section 1| [A01](assignments/cogs532-assignment-01.pdf) | [Chomsky (1957), pp. 11-25](readings/chomsky57-pp-11-25.pdf); [Sag et al. (2003), Sec. 1.2](readings/sagetal03-sec-1-2.pdf) |    
+3   | Feb 27 | Aims and scope (cont.) +  Phrase structure | | [A02](assignments/cogs532-assignment-02.pdf) | [Chomsky (1957), pp. 26-56](readings/chomsky57-pp-26-56.pdf); [Sag et al. (2003), Ch. 2](readings/sagetal03-ch-2.pdf)  
 4   | Mar 6  | Categories and features   
 5   | Mar 13 | Argument structure  
 6   | Mar 20 | Bounded phenomena I: passive, causative  
