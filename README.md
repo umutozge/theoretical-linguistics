@@ -35,6 +35,7 @@ Office hours: Wednesday, 12:00-14:00, Room B208
 	Sag, I. A., Wasow, T., and Bender, E. M. (2003). Syntactic Theory: A Formal Introduction. CSLI, Stanford, CA.  
 	Carnie, A. (2011). Modern Syntax: A Coursebook. Cambridge University Press, UK.  
 	Borsley, R. D. and Börjars, K. (2011). Non-transformational Syntax: Formal and Explicit Theories of Grammar. Wiley-Blackwell, UK.  
+	Tallerman, M. (2015). Understanding Syntax. 4th Edition. Hodder Education, Croydon, UK.
 
 ### Communication
 
