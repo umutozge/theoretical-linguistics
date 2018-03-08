@@ -15,7 +15,7 @@ Office hours: Wednesday, 12:00-14:00, Room B208
 2   | Feb 20 | Aims and scope of linguistic theory |Sec. 1| [A01](assignments/cogs532-assignment-01.pdf) | [Chomsky (1957), pp. 11-25](readings/10_chomsky57-pp-11-25.pdf); [Sag et al. (2003), Sec. 1.2](readings/13_sagetal03-sec-1-2.pdf) |    
 3   | Feb 27 | Aims and scope (cont.) +  Phrase structure | Sec. 1-2 | [A02](assignments/cogs532-assignment-02.pdf) | [Chomsky (1957), pp. 26-56](readings/16_chomsky57-pp-26-56.pdf); [Sag et al. (2003), Ch. 2](readings/19_sagetal03-ch-2.pdf)  
 4   | Mar 6  | Categories and features |Sec. 3 | [A03](assignments/cogs532-assignment-03.pdf) | [Gazdar et al. (1985), Ch. 2](readings/22_gazdaretal85-ch-2.pdf), [Sag et al. (2003), Ch. 3](readings/25_sagetal03-ch-3.pdf) 
-5   | Mar 13 | Heads and dependents | | [A04](assignments/cogs532-assignments-04.pdf) | [Tallerman (2015), Ch. 4](readings/28_tallerman15-ch-4.pdf) 
+5   | Mar 13 | Heads and dependents | | [A04](assignments/cogs532-assignment-04.pdf) | [Tallerman (2015), Ch. 4](readings/28_tallerman15-ch-4.pdf) 
 6   | Mar 20 | Bounded phenomena I: passive, causative  
 7   | Mar 27 | Bounded phenomena II: control, raising, anaphor binding
 8   | Apr 3  | Unbounded phenomena I: pronoun binding  
