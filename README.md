@@ -17,7 +17,7 @@ Office hours: Wednesday, 12:00-14:00, Room B208
 4   | Mar 6  | Categories and features |Sec. 3 | [A03](assignments/cogs532-assignment-03.pdf) | [Gazdar et al. (1985), Ch. 2](readings/22_gazdaretal85-ch-2.pdf), [Sag et al. (2003), Ch. 3](readings/25_sagetal03-ch-3.pdf) 
 5   | Mar 13 | Heads, complements, modifiers, specifiers |Sec. 4 | [A04](assignments/cogs532-assignment-04.pdf) | [Tallerman (2015), Ch. 4](readings/28_tallerman15-ch-4.pdf) 
 6   | Mar 20 | Heads (cont.), constituency |   | [A05](assignments/cogs532-assignment-05.pdf) | [Tallerman (2015), Ch. 5](readings/31_tallerman15-ch-5.pdf), [Sag et al. (2003), pp. 93-105](readings/34_sagetal03-pp-93-105.pdf)
-7   | Mar 27 | Bounded phenomena I: passive, causative  
+7   | Mar 27 | Bounded phenomena I: passive, causative | | [proposal](assignments/cogs532-term-paper-proposal.pdf)| 
 8   | Apr 3  | Bounded phenomena II: control, raising, anaphor binding
 9   | Apr 10 | Unbounded phenomena I: pronoun binding  
 10  | Apr 17 | Unbounded phenomena II: wh-movement  
