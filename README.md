@@ -19,9 +19,9 @@ Office hours: Wednesday, 12:00-14:00, Room B208
 6   | Mar 20 | Heads (cont.), constituency | Sec. 5  | [A05](assignments/cogs532-assignment-05.pdf) | [Tallerman (2015), Ch. 5](readings/31_tallerman15-ch-5.pdf), [Sag et al. (2003), pp. 93-105](readings/34_sagetal03-pp-93-105.pdf)
 7   | Mar 27 | Lexicalizing the grammar | | [proposal](assignments/cogs532-term-paper-proposal.pdf)| Free reading for topic selection
 8   | Apr 3  | Integrating semantics to the grammar | |[A06](assignments/cogs532-assignment-06.pdf) |[Sag et al. (2003), Ch. 5 ](readings/37_sagetal03-ch-5.pdf)
-9   | Apr 10 | Bounded phenomena | 
-10  | Apr 17 | Unbounded phenomena I |
-11  | Apr 24 | Unbounded phenomena II|
+9   | Apr 10 | Subject/Object | | |  [Tallerman (2015), Ch. 6](readings/40_tallerman15-ch-6.pdf)
+10  | Apr 17 | Bounded phenomena  |
+11  | Apr 24 | Unbounded phenomena |
 12  | May 1  | No class  
 13  | May 8  | Special Topic
 14  | May 15 | Special Topic
