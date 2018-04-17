@@ -23,9 +23,9 @@ Office hours: Wednesday, 12:00-14:00, Room B208
 10  | Apr 17 | Bounded phenomena  |
 11  | Apr 24 | Unbounded phenomena |
 12  | May 1  | No class  
-13  | May 8  | Special Topic
-14  | May 15 | Special Topic
-15  | May 22 | Special Topic
+13  | May 8  | Term projects
+14  | May 15 | Term projects 
+15  | May 22 | Term projects
 
 ### Material
 
