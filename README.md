@@ -8,7 +8,7 @@ Office hours: Friday, 12:00-15:00, Room B208
 
 [Fırat Öter](mailto:fıratoter@gmail.com) (TA)  
 
-**Catalog Description:** Sound-meaning-structure relations in language; grammatical categories and functions; key concepts and methods of analysis in phonetics, phonology, morphology, syntax in their relation to semantics; finite automata; formal grammar.
+**Catalog Description:** Sound-meaning-structure relations in language; grammatical categories and functions; key concepts and methods of analysis in phonetics, phonology, morphology and syntax in their relation to semantics; finite automata; formal grammar; categorial grammar.
 
 ### Weekly Schedule (tentative)
 
@@ -34,10 +34,13 @@ Office hours: Friday, 12:00-15:00, Room B208
 * [Lecture notes](notes/cogs532-lecture-notes.pdf); check regularly for updates.
 * Readings
 * Reference books:  
-	Tallerman, M. (2015). Understanding Syntax. 4th Edition. Hodder Education, Croydon, UK.
+	Partee, B. H., ter Meulen, A., and Wall, R. E. (1990). *Mathematical Methods in Linguistics*. Kluwer, Dodrecht.  
+	Tallerman, M. (2015). Understanding Syntax. 4th Edition. Hodder Education, Croydon, UK.   
 	Borsley, R. D. and Börjars, K. (2011). Non-transformational Syntax: Formal and Explicit Theories of Grammar. Wiley-Blackwell, UK.  
 	Carnie, A. (2011). Modern Syntax: A Coursebook. Cambridge University Press, UK.  
-	Sag, I. A., Wasow, T., and Bender, E. M. (2003). Syntactic Theory: A Formal Introduction. CSLI, Stanford, CA.  
+	
+
+<!-- Sag, I. A., Wasow, T., and Bender, E. M. (2003). Syntactic Theory: A Formal Introduction. CSLI, Stanford, CA. -->
 
 ### Communication
 
