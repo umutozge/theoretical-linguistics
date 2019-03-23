@@ -21,7 +21,7 @@ Office hours: Friday, 12:00-15:00, Room B208
 5   | Mar 12 | Feature systems and sound structure (phonology) | <!-- [A04](assignments/cogs532-assignment-04.pdf)--> |<!-- [Tallerman (2015), Ch. 4](readings/28_tallerman15-ch-4.pdf)--> 
 6   | Mar 19 | Phonology (cont.) | <!-- [A05](assignments/cogs532-assignment-05.pdf) --> | <!-- [Tallerman (2015), Ch. 5](readings/31_tallerman15-ch-5.pdf), [Sag et al. (2003), pp. 93-105](readings/34_sagetal03-pp-93-105.pdf)-->
 7   | Mar 26 | Morphophonology | <!-- [proposal](assignments/cogs532-term-paper-proposal.pdf)-->| |
-8   | Apr 2  |  Mid-term | |<!-- [A06](assignments/cogs532-assignment-06.pdf) --> | <!-- [Sag et al. (2003), Ch. 5 ](readings/37_sagetal03-ch-5.pdf)--> |
+8   | Apr 2  | Morphophonology (cont.)  | |[HW01](assignments/cogs532-homework-01.pdf) --> | |
 9   | Apr 9  | Projection of argument structure| | <!--  [Tallerman (2015), Ch. 6](readings/40_tallerman15-ch-6.pdf)--> |
 10  | Apr 16 | Heads, complements, modifiers, specifiers | | 
 11  | Apr 23 | No class | |
