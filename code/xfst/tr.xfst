@@ -17,6 +17,7 @@ define -BACK i|e|ö|ü;
 define +ROUND ö|ü|o|u;
 define -ROUND e|a|i|ı;
 
+define ROOT {ev}|{kolye}|{araba}|{ütü}|{süt}|{korku}|{atom};
 
 define RPlu %+Plu  -> l A r;
 
@@ -40,6 +41,6 @@ define RN N -> 0 || _ .#. ,, N -> n || _ ?;
 
 ! Morphotactic machine -- read one or more orthographic symbols than you can
 ! optionally read a Plu, Poss and Acc marker in that order. 
-define MAIN  O+ [%+Plu|0] [%+Poss|0] [%+Acc|0];
+define MAIN  ROOT [%+Plu|0] [%+Poss|0] [%+Acc|0];
 
 read regex MAIN .o. RPlu .o. RA .o. RPoss .o. RS .o. RH .o. RN .o. RAcc .o. RY .o. RH;
