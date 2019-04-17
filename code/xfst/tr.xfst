@@ -1,0 +1,45 @@
+! Consonants
+define C  b|c|ç|d|f|g|ğ|h|j|k|l|m|n|p|r|s|ş|t|v|y|z;
+
+! Vowels
+define V  a|e|i|o|u|ü|ö|ı;
+
+! Orthographic symbols -- all symbols that can appear in words; we omit capitalization.
+define O  [C | V];
+
+! Vowel features
+define +HIGH i|u|ı|ü; 
+define -HIGH e|a|o|ö;
+define +LOW a|ö;
+define -LOW e|i|ı|o|u|ü;
+define +BACK ı|a|o|u;
+define -BACK i|e|ö|ü;
+define +ROUND ö|ü|o|u;
+define -ROUND e|a|i|ı;
+
+
+define RPlu %+Plu  -> l A r;
+
+define RPoss %+Poss -> S H N;
+
+define RAcc %+Acc ->  Y H;
+
+define RS S -> s || V _ ,, S -> 0 || \V _;
+
+define RA A -> %-HIGH & %-ROUND & %-BACK || %-BACK C* _ ,, 
+	      A -> %-HIGH & %-ROUND & %+BACK || %+BACK C* _;
+
+define RH H -> %+HIGH & %+ROUND & %+BACK || [%+BACK & %+ROUND] C* _ ,,
+		  H -> %+HIGH & %+ROUND & %-BACK || [%-BACK & %+ROUND] C* _ ,,
+          H -> %+HIGH & %-ROUND & %+BACK || [%+BACK & %-ROUND] C* _ ,,
+		  H -> %+HIGH & %-ROUND & %-BACK || [%-BACK & %-ROUND] C* _ ; 
+
+define RY Y -> 0 || \V _ ,, Y -> y || V _ ;
+
+define RN N -> 0 || _ .#. ,, N -> n || _ ?;
+
+! Morphotactic machine -- read one or more orthographic symbols than you can
+! optionally read a Plu, Poss and Acc marker in that order. 
+define MAIN  O+ [%+Plu|0] [%+Poss|0] [%+Acc|0];
+
+read regex MAIN .o. RPlu .o. RA .o. RPoss .o. RS .o. RH .o. RN .o. RAcc .o. RY .o. RH;
