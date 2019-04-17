@@ -25,7 +25,7 @@ Office hours: Friday, 12:00-15:00, Room B208
 9   | Apr 9  | Projection of argument structure| | <!--  [Tallerman (2015), Ch. 6](readings/40_tallerman15-ch-6.pdf)--> |
 10  | Apr 16 | Heads, complements, modifiers, specifiers | | 
 11  | Apr 23 | No class | |
-12  | Apr 30 | Phrase structure grammars| | 
+12  | Apr 30 | Phrase structure grammars|[HW02](assignments/cogs532-homework-02.pdf) | 
 13  | May 7  | Categorial grammars | |
 14  | May 14 | Syntax-semantics interface in CG | |
 
