@@ -27,12 +27,12 @@ define RAcc %+Acc ->  Y H;
 define RS S -> s || V _ ,, S -> 0 || \V _;
 
 define RA A -> %-HIGH & %-ROUND & %-BACK || %-BACK C* _ ,, 
-	      A -> %-HIGH & %-ROUND & %+BACK || %+BACK C* _;
+          A -> %-HIGH & %-ROUND & %+BACK || %+BACK C* _;
 
 define RH H -> %+HIGH & %+ROUND & %+BACK || [%+BACK & %+ROUND] C* _ ,,
-		  H -> %+HIGH & %+ROUND & %-BACK || [%-BACK & %+ROUND] C* _ ,,
+          H -> %+HIGH & %+ROUND & %-BACK || [%-BACK & %+ROUND] C* _ ,,
           H -> %+HIGH & %-ROUND & %+BACK || [%+BACK & %-ROUND] C* _ ,,
-		  H -> %+HIGH & %-ROUND & %-BACK || [%-BACK & %-ROUND] C* _ ; 
+          H -> %+HIGH & %-ROUND & %-BACK || [%-BACK & %-ROUND] C* _ ; 
 
 define RY Y -> 0 || \V _ ,, Y -> y || V _ ;
 
