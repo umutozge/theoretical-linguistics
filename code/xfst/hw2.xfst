@@ -38,37 +38,37 @@ define KIRule  %+KI -> k i N;
 define Case [%+Acc|%+Dat|%+Loc|%+Gen|%+Abl|%+Ins];
 
 define CaseRule %+Acc ->  Y H ,
-				%+Dat ->  Y A ,
-				%+Loc ->  D A ,
-				%+Abl ->  D A n,
-				!%+Ins ->  Y l e,
-				%+Gen ->  GN H n;
+                %+Dat ->  Y A ,
+                %+Loc ->  D A ,
+                %+Abl ->  D A n,
+                !%+Ins ->  Y l e,
+                %+Gen ->  GN H n;
 
 
-define PhonemicsRule 	S -> s || V _ ,, S -> 0 || \V _ ,,
-						N -> 0 || _ [.#.|l] ,, N -> n || _ \l ,,
-				 		Y -> 0 || ~[V|H|A] _ ,, Y -> y || [V|H|A] _ ,, 
-						D -> t || %-VOICE _ ,, D -> d || \%-VOICE _ ,,
-						GN -> n || V _ ,, GN -> 0 || \V _ ,,
-						KN -> 0 || _ [%+Plu| .#.] ,, KN -> n || _ [?* - %+Plu] ; 
+define PhonemicsRule     S -> s || V _ ,, S -> 0 || \V _ ,,
+                        N -> 0 || _ [.#.|l] ,, N -> n || _ \l ,,
+                         Y -> 0 || ~[V|H|A] _ ,, Y -> y || [V|H|A] _ ,, 
+                        D -> t || %-VOICE _ ,, D -> d || \%-VOICE _ ,,
+                        GN -> n || V _ ,, GN -> 0 || \V _ ,,
+                        KN -> 0 || _ [%+Plu| .#.] ,, KN -> n || _ [?* - %+Plu] ; 
 
 ! the surface form of A is independent of preceding A's and H's; all that the rule
 ! needs is to reach a vowel in the root, that's why we have [C|H|A]* in the
 ! context specification.
 
-define ARule  	A -> %-HIGH & %-ROUND & %+BACK || %+BACK [C|H|A]* _ ,,
-				A -> %-HIGH & %-ROUND & %-BACK || %-BACK [C|H|A]* _ ; 
+define ARule      A -> %-HIGH & %-ROUND & %+BACK || %+BACK [C|H|A]* _ ,,
+                A -> %-HIGH & %-ROUND & %-BACK || %-BACK [C|H|A]* _ ; 
 
-define HRule  		H -> %+HIGH & %+ROUND & %+BACK || [%+BACK & %+ROUND] [C|H]* _ ,, H -> %+HIGH & %+ROUND & %-BACK || [%-BACK & %+ROUND] [C|H]* _ ,,
-          			H -> %+HIGH & %-ROUND & %+BACK || [%+BACK & %-ROUND] [C|H]* _ ,,
-          			H -> %+HIGH & %-ROUND & %-BACK || [%-BACK & %-ROUND] [C|H]* _ ; 
+define HRule          H -> %+HIGH & %+ROUND & %+BACK || [%+BACK & %+ROUND] [C|H]* _ ,, H -> %+HIGH & %+ROUND & %-BACK || [%-BACK & %+ROUND] [C|H]* _ ,,
+                      H -> %+HIGH & %-ROUND & %+BACK || [%+BACK & %-ROUND] [C|H]* _ ,,
+                      H -> %+HIGH & %-ROUND & %-BACK || [%-BACK & %-ROUND] [C|H]* _ ; 
 
 ! Morphotactic machine
 ! The machine looks simple; but it was not an easy task to arrive at it.
 define MAIN  ROOT
-			 [%+Plu|0]
-			 [%+Poss |0] 
-			 [[%+Gen|%+Loc] %+KI [%+Plu|0]]*
-			 [Case|0];
+             [%+Plu|0]
+             [%+Poss |0] 
+             [[%+Gen|%+Loc] %+KI [%+Plu|0]]*
+             [Case|0];
 
 read regex MAIN .o. PluRule .o. PossRule .o. KIRule .o. CaseRule .o. PhonemicsRule .o. ARule .o. HRule;
