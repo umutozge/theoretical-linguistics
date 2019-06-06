@@ -1,10 +1,22 @@
+***HOMEWORK TESTS***
+***GOOD***
 ev
 evler
+evde
+evin
+evlerinki
+evlerdeki
+evlerinkiler
+evlerinkilerde
+evlerinkilerdekinin
+***BAD***
+evki
+evlerki
+evkinde
+evdekindeler
+evindeler
+***WIDER COVERAGE TESTS***
 evi
-evleri
-evlerini
-atomu
-atomlarını
-kolyeyi
-kolyesi
-korkularını
+evininki
+evininkilerdekilerinkini
+evlerinkilerden
