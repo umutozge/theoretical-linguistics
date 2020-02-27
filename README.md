@@ -5,6 +5,11 @@ Wed, 14:40-17:30, S03, Informatics Institute
 
 [Umut Özge](https://umutozge.github.io)  
 
+
+[Ecenur Çağırıcı](mailto:ecenurc@metu.edu.tr) 
+Teaching Assistant
+
+
 **Catalog Description:** Sound-meaning-structure relations in language; grammatical categories and functions; key concepts and methods of analysis in phonetics, phonology, morphology and syntax in their relation to semantics; finite automata; formal grammar; categorial grammar.
 
 ### Weekly Schedule (tentative)
@@ -36,6 +41,7 @@ Wed, 14:40-17:30, S03, Informatics Institute
 	Tallerman, M. (2015). *Understanding Syntax*. 4th Edition. Hodder Education, Croydon, UK.   
 	Borsley, R. D. and Börjars, K. (2011). *Non-transformational Syntax: Formal and Explicit Theories of Grammar*. Wiley-Blackwell, UK.  
 	Carnie, A. (2011). *Modern Syntax: A Coursebook*. Cambridge University Press, UK.  
+* [FOMA website](https://fomafst.github.io/) for modelling morphophonology.
 	
 ### Communication
 
