@@ -1,0 +1,55 @@
+Multichar_Symbols 
++N
++Sg
++Pl
++Poss1p
++Poss2p
++Poss3p
++Poss1pPl
++Poss2pPl
++Poss3pPl
++NonPoss
++Nom
++Acc
++Dat
++Abl
++Loc
+
+LEXICON Root
+
+Noun;
+
+LEXICON Noun
+
+araba	NPos;
+ev		NPos;
+ütü		NPos;
+gözlük	NPos;
+
+LEXICON NPos
+
++N:0	Num;
+
+LEXICON Num
+
++Sg:0		Agr;
++Pl:^lAr	Agr;
+
+LEXICON Agr
+	
++Poss1p:^Hm		Case;
++Poss2p:^Hn		Case;
++Poss3p:^SHN	Case;
++Poss1pPl:^HmHz	Case;
++Poss2pPl:^HnHz	Case;
++Poss3pPl:^SHN	Case;
++Poss3pPl:^lArIN	Case;
++NonPoss:0		Case;
+
+LEXICON Case
+
++Nom:0		#;
++Acc:^YH	#;
++Dat:^YA	#;
++Abl:^DAn	#;
++Loc:^DA	#;
