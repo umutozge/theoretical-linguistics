@@ -34,6 +34,7 @@ Teaching Assistant
 ### Material
 
 * [Lecture notes](notes/cogs532-lecture-notes.pdf); check regularly for updates.
+* [Videos](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/)
 * Readings
 * Reference books:
     Olaf Koeneman and Hedde Zeijlstra (2017). *Introducing Syntax*. Cambridge University Press: Cambridge, UK.

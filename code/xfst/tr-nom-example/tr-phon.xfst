@@ -1,0 +1,66 @@
+!
+! COGS 532 Theoretical Linguistics
+!
+! Umut Özge
+! METU Informatics
+!
+
+clear
+
+! Sound abstractions
+! A : e a
+! H : ı i u ü
+! I : ı i
+! N : n 0 
+! Y : y 0
+! S : s 0
+! D : d t
+
+define VAbs H|I|A; 
+define CAbs S|D|Y|N;
+
+
+! Consonants
+define C  b|c|ç|d|f|g|ğ|h|j|k|l|m|n|p|r|s|ş|t|v|y|z;
+
+! Consonant features
+define -VOICE p|ç|t|k|f|s|ş|h;
+
+! Vowels
+define V  a|e|i|o|u|ü|ö|ı;
+define V2 V|H|A;
+
+! Orthographic symbols -- all symbols that can appear in words; we omit capitalization.
+define O  [C | V];
+
+! Vowel features
+define +HIGH i|u|ı|ü; 
+define -HIGH e|a|o|ö;
+define +LOW a|ö;
+define -LOW e|i|ı|o|u|ü;
+define +BACK ı|a|o|u;
+define -BACK i|e|ö|ü;
+define +ROUND ö|ü|o|u;
+define -ROUND e|a|i|ı;
+
+define ConsAlter	 	S -> s || V _ ,, S -> 0 || \V _ ,,
+						N -> 0 || _ .#. ,, N -> n || _ ? ,,
+				 		Y -> 0 || ~[V|H|A] _ ,, Y -> y || [V|H|A] _ ,, 
+						D -> t || %-VOICE _ ,, D -> d || \%-VOICE _ ; 
+
+define ARule  	A -> %-HIGH & %-ROUND & %+BACK || %+BACK \V* _ ,,
+				A -> %-HIGH & %-ROUND & %-BACK || %-BACK \V* _ ; 
+
+define HRule  		H -> %+HIGH & %+ROUND & %+BACK || [%+BACK & %+ROUND] \V* _ ,,
+         			H -> %+HIGH & %+ROUND & %-BACK || [%-BACK & %+ROUND] \V* _ ,,
+          			H -> %+HIGH & %-ROUND & %+BACK || [%+BACK & %-ROUND] \V* _ ,,
+          			H -> %+HIGH & %-ROUND & %-BACK || [%-BACK & %-ROUND] \V* _ ; 
+
+define RemMorphBound	[\%^* %^:0 \%^*]*;
+
+push RemMorphBound
+push ConsAlter
+push HRule
+push ARule
+read lexc tr-nom-example-v3.lexc
+compose net
