@@ -7,7 +7,7 @@ Informatics Institute, METU
 
 **Catalog Description:** Sound-meaning-structure relations in language; grammatical categories and functions; key concepts and methods of analysis in phonetics, phonology, morphology and syntax in their relation to semantics; finite automata; formal grammar; categorial grammar.
 
-### Online content
+### Online content (please download if your browser can't open the video)
 
 |ID| Topic |
 :---|:--- |
@@ -20,7 +20,7 @@ Informatics Institute, METU
 028 | [Regex in `foma` (part 2)](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/028_regex-in-foma-2.m4v) | 
 030 | [Foma definitions HOWTO](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/030_foma-definitions-howto.m4v)
 032 | [Transducers in `foma`](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/032_transducers-in-foma.m4v)
-034 | [Transducer example](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/034_transducer-example.mp4)
+034 | [Transducer example](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/034_transducer-example.m4v)
 036 | [Introducing 2level morphology](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/036_introducing-2level-morphology.m4v)
 038 | [Lexc example](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/038_lexc-example.mp4)
 040 | [Modelling alternation processes](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/040_modelling-alternation-processes.mp4)
