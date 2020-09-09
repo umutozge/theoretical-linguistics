@@ -19,7 +19,7 @@ Informatics Institute, METU
 026 | [Regex in `foma` (part 1)](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/026_regex-in-foma-1.m4v) | 
 028 | [Regex in `foma` (part 2)](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/028_regex-in-foma-2.m4v) | 
 030 | [Foma definitions HOWTO](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/030_foma-definitions-howto.m4v)
-032 | [Transducers in `foma`](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/032_transducers-in-foma.mp4)
+032 | [Transducers in `foma`](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/032_transducers-in-foma.m4v)
 034 | [Transducer example](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/034_transducer-example.mp4)
 036 | [Introducing 2level morphology](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/036_introducing-2level-morphology.m4v)
 038 | [Lexc example](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/038_lexc-example.mp4)
