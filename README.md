@@ -4,6 +4,8 @@ Informatics Institute, METU
 
 [Umut Özge](https://umutozge.github.io)  
 
+[Ecenur Çağırıcı](mailto:ecenur.ca@gmail.com)  
+TA
 
 **Catalog Description:** Sound-meaning-structure relations in language; grammatical categories and functions; key concepts and methods of analysis in phonetics, phonology, morphology and syntax in their relation to semantics; finite automata; formal grammar; categorial grammar.
 
@@ -87,9 +89,8 @@ Informatics Institute, METU
 
 ### Requirements
 
-* 4 Assignments (40%); 
-* In-class exam (May 6, 30%);
-* Take-home final (May 20, 30%).
+* Assignments (60%); 
+* Term paper (40%).
 
 ### Attendance
 
