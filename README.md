@@ -58,11 +58,11 @@ TA
       
 ### Material
 
-* [Lecture notes](notes/cogs532-lecture-notes.pdf); check regularly for updates.
+<!-- * [Lecture notes](notes/cogs532-lecture-notes.pdf); check regularly for updates.-->
 * [Videos](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/)
 * Readings
-* Reference books:
-    Olaf Koeneman and Hedde Zeijlstra (2017). *Introducing Syntax*. Cambridge University Press: Cambridge, UK.
+* Reference books:  
+    Olaf Koeneman and Hedde Zeijlstra (2017). *Introducing Syntax*. Cambridge University Press: Cambridge, UK.  
 	Partee, B. H., ter Meulen, A., and Wall, R. E. (1990). *Mathematical Methods in Linguistics*. Kluwer, Dodrecht.  
 	Tallerman, M. (2015). *Understanding Syntax*. 4th Edition. Hodder Education, Croydon, UK.   
 	Borsley, R. D. and Börjars, K. (2011). *Non-transformational Syntax: Formal and Explicit Theories of Grammar*. Wiley-Blackwell, UK.  
