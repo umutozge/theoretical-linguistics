@@ -9,6 +9,13 @@ TA
 
 **Catalog Description:** Sound-meaning-structure relations in language; grammatical categories and functions; key concepts and methods of analysis in phonetics, phonology, morphology and syntax in their relation to semantics; finite automata; formal grammar; categorial grammar.
 
+###   Weekly Schedule (Spring 2020)
+      
+|Week| Date   | Content |  Assignment | Reading |
+:--- |:-------|:------|:---|:---
+1    |Mar 17  |First meeting| ||
+2    |Mar 24  |042--048   | | |    
+
 ### Online content (please download if your browser can't open the video)
 
 |ID| Topic |
@@ -49,25 +56,6 @@ TA
 082 | [Why move?](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/082_why-move.mp4)
       
       
-###   Weekly Schedule (Spring 2020)
-      
-|Week| Date   | Topic |  Assignment | Reading |
-:--- |:---|:---|:---|:---
-1    | |  |
-2   |  |  | | |    
-3   |  | | | |  
-4   | | |  | | 
-5   || |  | |
-6   | | |  | | 
-7   | | | | |
-8   | | | | |
-9   | | | |  |
-10  | || | |
-11  | || | |
-12  | || | |
-13  | | | |
-14  | || |
-
 ### Material
 
 * [Lecture notes](notes/cogs532-lecture-notes.pdf); check regularly for updates.
@@ -89,8 +77,7 @@ TA
 
 ### Requirements
 
-* Assignments (60%); 
-* Term paper (40%).
+* Assignments (100%); 
 
 ### Attendance
 
