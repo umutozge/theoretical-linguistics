@@ -16,6 +16,7 @@ TA
 1    |Mar 17  |First meeting| ||
 2    |Mar 24  |042--048   | | |    
 3    |Mar 31  |050--056   | | |    
+4    |Apr 07  |058--066   | | |    
 
 ### Online content (please download if your browser can't open the video)
 
