@@ -17,7 +17,7 @@ TA
 |2    |Mar 24  |042-048   | |     
 |3    |Mar 31  |050-056   | |     
 |4    |Apr 07  |058-066   | |     
-|5    |Apr 14  |069-072, [A01](assignments/cogs502-assignment-01-21-01.pdf) | | 
+|5    |Apr 14  |069-072, [A01](assignments/cogs532-assignment-01-21-01.pdf) | | 
 
 ### Online content (please download if your browser can't open the video)
 
