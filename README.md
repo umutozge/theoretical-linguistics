@@ -11,13 +11,13 @@ TA
 
 ###   Weekly Schedule (Spring 2020)
       
-|Week| Date   | Content | Reading |
-:--- |:-------|:------|:---
+|Week| Date   | Content | Assignment | Reading |
+:--- |:-------|:------|:---|:---
 |1    |Mar 17  |First meeting| |
-|2    |Mar 24  |042-048   | |     
-|3    |Mar 31  |050-056   | |     
-|4    |Apr 07  |058-066   | |     
-|5    |Apr 14  |069-072, [A01](assignments/cogs532-assignment-01-21-01.pdf) | | 
+|2    |Mar 24  |042-048  | | |     
+|3    |Mar 31  |050-056  | | |     
+|4    |Apr 07  |058-066  | | |     
+|5    |Apr 14  |069-072| [A01](assignments/cogs532-assignment-01-21-01.pdf) | | 
 
 ### Online content (please download if your browser can't open the video)
 
