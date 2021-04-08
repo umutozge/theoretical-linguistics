@@ -1,0 +1,110 @@
+\documentclass[ignorenonframetext,8pt,aspectratio=169]{beamer}
+
+\usepackage{umut}
+\usepackage{umuttr}
+\usepackage{usynsem}
+\usepackage[utf8]{inputenc}
+\usepackage{uling}
+\usepackage{natbib,unatbib}
+\usepackage{linguex}
+         \renewcommand{\refdash}{}
+\usepackage{ubeamer}
+\usepackage{verbatim}
+\usepackage{adjustbox}
+\usepackage{fancyvrb}
+
+\usepackage{ulem}
+
+\usepackage{tikz-qtree}
+\usetikzlibrary{er,positioning}
+
+\title{Minimal Search}
+\author{\  \\  {\it Based on Koeneman \& Zeiljstra (2017)} \\ \vspace{20pt} Umut \"Ozge\\  }
+
+\date{COGS 532: Theoretical Linguistics\\ METU, Informatics}
+
+\begin{document}
+
+\begin{frame}\frametitle{}
+\thispagestyle{empty}
+\maketitle
+\end{frame}
+
+\begin{frame}[t,plain]{Subject movement to FinP}
+
+\ex. Mary sleeps. 
+
+\vspace{20pt}
+\hspace{80pt}
+\begin{tikzpicture}
+\tikzset{level distance=20pt, sibling distance=25pt}
+\tikzset{every tree node/.style={align=center,anchor=north}}
+
+\Tree[.{FinP} [.{DP} Mary\\{\begin{avm} \[cat  & n \\ det & + \\ $\phi$  & 3, sg\ \\ {finite$^{(u)}$} & {+} \]  \end{avm}} ] [.{Fin'} [.{Fin} -s\\{\begin{avm} \[cat  & fin \\ finite  & + \\ {$\phi^{(u)}$}  & {3, sg} \] \end{avm}}  ] [.{VP} [.{<DP>} Mary\\{\begin{avm} \[cat  & n \\ det & + \\ $\phi$  & 3, sg\ \\ {finite$^{(u)}$} & {+} \]  \end{avm}} ] [.{V} sleep\\{\begin{avm} \[cat  & v \\ \] \end{avm}} ] ] ] ] 
+\end{tikzpicture}
+\end{frame}
+
+
+\begin{frame}[t,plain]{Movement}
+\framesubtitle{{\it Wh-}movement and subject-auxiliary inversion}
+
+\ex. \a. Whom did you see?
+\b. Whom did you <did> see <who>?
+
+\vspace{40pt}
+
+\hspace{70pt}
+{\footnotesize
+\begin{tikzpicture}
+\tikzset{level distance=20pt, sibling distance=10pt}
+\tikzset{every tree node/.style={align=center,anchor=north}}
+\Tree[.{FinP} [.{Fin} did\\{\begin{avm} \[cat  & fin \\ finite  & + \\ $\phi^{(u)}$  & 2, sg\] \end{avm}} ] [.{VP} [.{DP} you\\{\begin{avm} \[cat  & n \\ det & + \\ $\phi$  & 2, sg \\ finite$^{(u)}$ & + \]  \end{avm}} ] [.{V'} [.{V} see\\{\begin{avm} \[cat  & v \\ \] \end{avm}} ] [.{DP} who\\{\begin{avm} \[cat  & n \\ det & +  \\ $\phi$ & 3, sg \\ cat$^{(u)}$  & v\]  \end{avm}} ] ] ] ] 
+\end{tikzpicture}
+}
+\end{frame}
+
+\begin{frame}[t,plain]{Movement}
+\framesubtitle{{\it Wh-}movement and subject-auxiliary inversion}
+
+\ex. \a. Whom did you see?
+\b. Whom did you <did> see <who>?
+
+
+{\footnotesize
+\begin{tikzpicture}
+\tikzset{level distance=20pt, sibling distance=17pt}
+\tikzset{every tree node/.style={align=center,anchor=north}}
+\Tree[.{CP} [.{DP} whom\\{\begin{avm} \[cat  & n \\ det & +  \\ $\phi$ & 3, sg \\ \sout{cat$^{(u)}$}  & \sout{v}\]  \end{avm}} ] [.{C'} [.{C} did\\{\begin{avm} \[cat  & c \\ type & ques \\ embed  & - \] \end{avm}} ] [.{FinP} [.{DP} you\\{\begin{avm} \[cat  & n \\ det & + \\ $\phi$  & 2, sg \\ \sout{finite$^{(u)}$} & + \]  \end{avm}} ] [.{Fin'} [.{<Fin>} did\\{\begin{avm} \[cat  & fin \\ finite  & + \\ \sout{$\phi^{(u)}$}  & \sout{2, sg}\] \end{avm}} ] [.{VP} [.{<DP>} you\\{\begin{avm} \[cat  & n \\ det & + \\ $\phi$  & 2, sg \\ \sout{finite$^{(u)}$} & + \]  \end{avm}} ] [.{V'} [.{V} see\\{\begin{avm} \[cat  & v \\ \] \end{avm}} ] [.{<DP>} who\\{\begin{avm} \[cat  & n \\ det & +  \\ $\phi$ & 3, sg \\ \sout{cat$^{(u)}$}  & \sout{v}\]  \end{avm}} ] ] ] ] ] ] ] 
+\end{tikzpicture}
+}
+\end{frame}
+
+\begin{frame}[t,plain]{Two motivations}
+
+\vspace{40pt}
+
+\begin{enumerate}
+\item Make invisible heads visible (e.g.\ {\it wh-}movement).
+\item Check features (e.g.\ subject movement).
+\end{enumerate}
+
+\end{frame}
+
+\begin{frame}[t,plain]{Motivation 1 does not work}
+\ex. I wonder whom Bill has met.
+
+{\footnotesize
+\begin{tikzpicture}
+\tikzset{level distance=20pt, sibling distance=17pt}
+\tikzset{every tree node/.style={align=center,anchor=north}}
+\Tree[.{CP} [.{DP} whom\\{\begin{avm} \[cat  & n \\ det & +  \\ $\phi$ & 3, sg \\ cat$^{(u)}$  & v\]  \end{avm}} ] [.{C'} [.{C} has\\{\begin{avm} \[cat  & c \\ type & ques \\ embed  & + \] \end{avm}} ] [.{FinP} [.{DP} Bill\\{\begin{avm} \[cat  & n \\ det & + \\ $\phi$  & 2, sg \\ finite$^{(u)}$ & + \]  \end{avm}} ] [.{Fin'} [.{<Fin>} has\\{\begin{avm} \[cat  & fin \\ finite  & + \\ $\phi^{(u)}$  & 2, sg\] \end{avm}} ] [.{VP} [.{<DP>} Bill\\{\begin{avm} \[cat  & n \\ det & + \\ $\phi$  & 2, sg \\ finite$^{(u)}$ & + \]  \end{avm}} ] [.{V'} [.{V} met\\{\begin{avm} \[cat  & v \\ \] \end{avm}} ] [.{<DP>} who\\{\begin{avm} \[cat  & n \\ det & +  \\ $\phi$ & 3, sg \\ cat$^{(u)}$  & v\]  \end{avm}} ] ] ] ] ] ] ] 
+\end{tikzpicture}
+}
+
+\end{frame}
+
+\begin{frame}[t,plain]{}
+\end{frame}
+
+\end{document}
+
