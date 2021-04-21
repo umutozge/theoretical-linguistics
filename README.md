@@ -19,6 +19,7 @@ TA
 |4    |Apr 07  |058-066  | | |     
 |5    |Apr 14  |069-072| [A01](assignments/cogs532-21-01-assignment-01.pdf) | | 
 |6    |Apr 21  || [A02](assignments/cogs532-21-01-assignment-02.pdf) | [Buring 2005](readings/buring2005.pdf) Ch. 1+ | 
+|7    |Apr 28  |074|  |[Nikolaeva 2007](readings/nikolaeva2007.pdf) Ch. 1, 9  | 
 
 ### Online content (please download if your browser can't open the video)
 
