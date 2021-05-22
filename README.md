@@ -21,6 +21,9 @@ TA
 |6    |Apr 21  || [A02](assignments/cogs532-21-01-assignment-02.pdf) | [Buring 2005](readings/buring2005.pdf) Ch. 1+ | 
 |7    |Apr 28  |074|  |[Nikolaeva 2007](readings/nikolaeva2007.pdf) Ch. 1, 9  | 
 |8    |May 5  |076, 078|  | | 
+|9    |May 12 |Spring break|  | | 
+|10   |May 19 |Holiday |  | | 
+|11   |May 26 |80 82 |  | | 
 
 ### Online content (please download if your browser can't open the video)
 
