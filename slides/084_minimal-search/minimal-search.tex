@@ -44,67 +44,64 @@
 \end{tikzpicture}
 \end{frame}
 
+\begin{frame}[t,plain]{Why move the subject?}
 
-\begin{frame}[t,plain]{Movement}
-\framesubtitle{{\it Wh-}movement and subject-auxiliary inversion}
+\ex.
+\a. *Often has Mary kissed Eve.
+\b. *In the garden kisses Mary Eve. 
 
-\ex. \a. Whom did you see?
-\b. Whom did you <did> see <who>?
+\end{frame}
 
-\vspace{40pt}
+\begin{frame}[t,plain]{Why move the subject?}
+\ex. *Her has she kissed <her>.
 
-\hspace{70pt}
-{\footnotesize
+\vspace{20pt}
+\hspace{30pt}
 \begin{tikzpicture}
-\tikzset{level distance=20pt, sibling distance=10pt}
+\tikzset{level distance=20pt, sibling distance=25pt}
 \tikzset{every tree node/.style={align=center,anchor=north}}
-\Tree[.{FinP} [.{Fin} did\\{\begin{avm} \[cat  & fin \\ finite  & + \\ $\phi^{(u)}$  & 2, sg\] \end{avm}} ] [.{VP} [.{DP} you\\{\begin{avm} \[cat  & n \\ det & + \\ $\phi$  & 2, sg \\ finite$^{(u)}$ & + \]  \end{avm}} ] [.{V'} [.{V} see\\{\begin{avm} \[cat  & v \\ \] \end{avm}} ] [.{DP} who\\{\begin{avm} \[cat  & n \\ det & +  \\ $\phi$ & 3, sg \\ cat$^{(u)}$  & v\]  \end{avm}} ] ] ] ] 
+
+\Tree[.{FinP} [.{DP} Her\\{\begin{avm} \[$\phi$  & 3,sg \\ cat$^{(u)}$  & v\] \end{avm}} ] [.{Fin'} [.{Fin} has\\{\begin{avm} \[cat  & fin \\ finite  & + \\ $\phi^{(u)}$  & 3,sg\] \end{avm}} ] [.{VP} [.{DP} she\\{\begin{avm} \[cat  & n \\ det  & + \\ $\phi$  & 3,sg \\ finite$^{(u)}$  & +\] \end{avm}} ] [.{V'} [.{V} kissed\\{\begin{avm} \[cat  & v \]\end{avm}} ] [.{<DP>} her\\{\begin{avm} \[$\phi$  & 3,sg \\ cat$^{(u)}$  & v\] \end{avm}} ] ] ] ] ] 
+
+
+
 \end{tikzpicture}
-}
 \end{frame}
 
-\begin{frame}[t,plain]{Movement}
-\framesubtitle{{\it Wh-}movement and subject-auxiliary inversion}
+\begin{frame}[t,plain]{Minimal Search}
 
-\ex. \a. Whom did you see?
-\b. Whom did you <did> see <who>?
+\ex. When you need to remerge a constituent with some interpretable feature \setavm{\[F\]} to check off some uninterpretable feature \setavm{\[F$^{(u)}$\]} on some other constituent, search for the closest constituent with \setavm{F} that is c-commanded by the element with \setavm{\[F$^{(u)}$\]}.
+
+\end{frame}
+
+\begin{frame}[t,plain]{An intricacy of Minimal Search}
+
+\ex. *Them have Mary loved <them>.
+
+\end{frame}
+
+\begin{frame}[t,plain]{The passive}
 
 
-{\footnotesize
+\vspace{20pt}
+\hspace{60pt}
 \begin{tikzpicture}
-\tikzset{level distance=20pt, sibling distance=17pt}
+\tikzset{level distance=20pt, sibling distance=25pt}
 \tikzset{every tree node/.style={align=center,anchor=north}}
-\Tree[.{CP} [.{DP} whom\\{\begin{avm} \[cat  & n \\ det & +  \\ $\phi$ & 3, sg \\ \sout{cat$^{(u)}$}  & \sout{v}\]  \end{avm}} ] [.{C'} [.{C} did\\{\begin{avm} \[cat  & c \\ type & ques \\ embed  & - \] \end{avm}} ] [.{FinP} [.{DP} you\\{\begin{avm} \[cat  & n \\ det & + \\ $\phi$  & 2, sg \\ \sout{finite$^{(u)}$} & + \]  \end{avm}} ] [.{Fin'} [.{<Fin>} did\\{\begin{avm} \[cat  & fin \\ finite  & + \\ \sout{$\phi^{(u)}$}  & \sout{2, sg}\] \end{avm}} ] [.{VP} [.{<DP>} you\\{\begin{avm} \[cat  & n \\ det & + \\ $\phi$  & 2, sg \\ \sout{finite$^{(u)}$} & + \]  \end{avm}} ] [.{V'} [.{V} see\\{\begin{avm} \[cat  & v \\ \] \end{avm}} ] [.{<DP>} who\\{\begin{avm} \[cat  & n \\ det & +  \\ $\phi$ & 3, sg \\ \sout{cat$^{(u)}$}  & \sout{v}\]  \end{avm}} ] ] ] ] ] ] ] 
+
+\Tree[.{VP} [.{DP} ] [.{V'} [.{V} love ] [.{DP} Mary ] ] ] 
+
+
 \end{tikzpicture}
-}
-\end{frame}
-
-\begin{frame}[t,plain]{Two motivations}
-
-\vspace{40pt}
-
-\begin{enumerate}
-\item Make invisible heads visible (e.g.\ {\it wh-}movement).
-\item Check features (e.g.\ subject movement).
-\end{enumerate}
-
-\end{frame}
-
-\begin{frame}[t,plain]{Motivation 1 does not work}
-\ex. I wonder whom Bill has met.
-
-{\footnotesize
+\hspace{50pt}
 \begin{tikzpicture}
-\tikzset{level distance=20pt, sibling distance=17pt}
+\tikzset{level distance=20pt, sibling distance=25pt}
 \tikzset{every tree node/.style={align=center,anchor=north}}
-\Tree[.{CP} [.{DP} whom\\{\begin{avm} \[cat  & n \\ det & +  \\ $\phi$ & 3, sg \\ cat$^{(u)}$  & v\]  \end{avm}} ] [.{C'} [.{C} has\\{\begin{avm} \[cat  & c \\ type & ques \\ embed  & + \] \end{avm}} ] [.{FinP} [.{DP} Bill\\{\begin{avm} \[cat  & n \\ det & + \\ $\phi$  & 2, sg \\ finite$^{(u)}$ & + \]  \end{avm}} ] [.{Fin'} [.{<Fin>} has\\{\begin{avm} \[cat  & fin \\ finite  & + \\ $\phi^{(u)}$  & 2, sg\] \end{avm}} ] [.{VP} [.{<DP>} Bill\\{\begin{avm} \[cat  & n \\ det & + \\ $\phi$  & 2, sg \\ finite$^{(u)}$ & + \]  \end{avm}} ] [.{V'} [.{V} met\\{\begin{avm} \[cat  & v \\ \] \end{avm}} ] [.{<DP>} who\\{\begin{avm} \[cat  & n \\ det & +  \\ $\phi$ & 3, sg \\ cat$^{(u)}$  & v\]  \end{avm}} ] ] ] ] ] ] ] 
+
+\Tree[.{VP} [.{V} love ] [.{DP} Mary ] ] 
+
 \end{tikzpicture}
-}
 
-\end{frame}
-
-\begin{frame}[t,plain]{}
 \end{frame}
 
 \end{document}
-
