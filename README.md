@@ -25,7 +25,7 @@ TA
 |10   |May 19 |Holiday |  | | 
 |11   |May 26 |80 82 |  | | 
 |12   |Jun 2 |84 86 88 | | |
-|13   |Jun 3 |TBA |A5, A6 on p.180  | |
+|13   |Jun 9 |TBA |A5, A6 on p.180  | |
 
 ### Online content (please download if your browser can't open the video)
 
