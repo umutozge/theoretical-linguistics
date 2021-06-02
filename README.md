@@ -24,7 +24,8 @@ TA
 |9    |May 12 |Spring break|  | | 
 |10   |May 19 |Holiday |  | | 
 |11   |May 26 |80 82 |  | | 
-|12   |Jun 2 |84 86 88 |  | | 
+|12   |Jun 2 |84 86 88 | | |
+|13   |Jun 3 |TBA |A5, A6 on p.180  | |
 
 ### Online content (please download if your browser can't open the video)
 
@@ -66,7 +67,7 @@ TA
 082 | [Why move?](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/082_why-move.mp4)
 084 | [Minimal Search](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/084_minimal-search.mp4)
 086 | [Wh-movement II](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/086_wh-movement-ii.mp4)
-088 | [head-versus-phrase-movement](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/088_head-versus-phrase-movement.mp4)
+088 | [Head versus phrase movement](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/088_head-versus-phrase-movement.mp4)
       
       
 ### Material
