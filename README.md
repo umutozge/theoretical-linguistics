@@ -26,6 +26,7 @@ TA
 |11   |May 26 |80 82 |  | | 
 |12   |Jun 2 |84 86 88 | | |
 |13   |Jun 9 |TBA |A5, A6 on p.180  | |
+|14   |Jun 16 |90 |  | |
 
 ### Online content (please download if your browser can't open the video)
 
@@ -68,6 +69,7 @@ TA
 084 | [Minimal Search](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/084_minimal-search.mp4)
 086 | [Wh-movement II](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/086_wh-movement-ii.mp4)
 088 | [Head versus phrase movement](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/088_head-versus-phrase-movement.mp4)
+090 | [Layered VPs](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/090_layered-vps.mp4)
       
       
 ### Material
