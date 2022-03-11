@@ -4,29 +4,31 @@ Informatics Institute, METU
 
 [Umut Özge](https://umutozge.github.io)  
 
-[Ecenur Çağırıcı](mailto:ecenur.ca@gmail.com)  
+[İlteriş Bozkurt](mailto:ilte9605@gmail.com)  
 TA
 
 **Catalog Description:** Sound-meaning-structure relations in language; grammatical categories and functions; key concepts and methods of analysis in phonetics, phonology, morphology and syntax in their relation to semantics; finite automata; formal grammar; categorial grammar.
 
 ###   Weekly Schedule (Spring 2020)
-      
+  
+
+
 |Week| Date   | Video | Assignment | Reading |
 :--- |:-------|:------|:---|:---
-|1    |Mar 17  |First meeting| |
-|2    |Mar 24  |042-048  | | |     
-|3    |Mar 31  |050-056  | | |     
-|4    |Apr 07  |058-066  | | |     
-|5    |Apr 14  |069-072| [A01](assignments/cogs532-21-01-assignment-01.pdf) | | 
-|6    |Apr 21  || [A02](assignments/cogs532-21-01-assignment-02.pdf) | [Buring 2005](readings/buring2005.pdf) Ch. 1+ | 
-|7    |Apr 28  |074|  |[Nikolaeva 2007](readings/nikolaeva2007.pdf) Ch. 1, 9  | 
-|8    |May 5  |076, 078|  | | 
-|9    |May 12 |Spring break|  | | 
-|10   |May 19 |Holiday |  | | 
-|11   |May 26 |80 82 |  | | 
-|12   |Jun 2 |84 86 88 | | |
-|13   |Jun 9 |TBA |A5, A6 on p.180  | |
-|14   |Jun 16 |90 |  | |
+|1    |Mar 11  |First meeting| |
+|2    |Mar 18  |042-048  | | |     
+|3    |Mar 25  |050-056  | | |     
+|4    |Apr 1  |058-066  | | |     
+|5    |Apr 8  |069-072| | | 
+|6    |Apr 15  || | | 
+|7    |Apr 22  |074|  || 
+|8    |Apr 29  |076, 078|  | | 
+|9    |May 6 ||  | | 
+|10   |May 13 ||  | | 
+|11   |May 20 ||  | | 
+|12   |May 27 || | |
+|13   |Jun 3 ||| |
+|14   |Jun 10 | |  | |
 
 ### Online content (please download if your browser can't open the video)
 
@@ -88,12 +90,12 @@ TA
 ### Communication
 
 * Regularly check this page for assignments, readings, notes, etc.
-* `odtuclass` will be used only for announcing grades.
-* Follow and use the [newsgroup](https://groups.google.com/forum/#!forum/metu-cogs-532-theoretical-linguistics) course related announcements, questions, comments etc. 
+* Discussion and announcements on `odtuclass`.
 
 ### Requirements
 
-* Assignments (100%); 
+* Term assignments (70%); 
+* Final assignment (30%); 
 
 ### Attendance
 
