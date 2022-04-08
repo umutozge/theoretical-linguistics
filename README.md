@@ -4,8 +4,7 @@ Informatics Institute, METU
 
 [Umut Özge](https://umutozge.github.io)  
 
-[İlteriş Bozkurt](mailto:ilte9605@gmail.com)  
-TA
+[İlteriş Bozkurt](mailto:ilte9605@gmail.com) TA
 
 **Catalog Description:** Sound-meaning-structure relations in language; grammatical categories and functions; key concepts and methods of analysis in phonetics, phonology, morphology and syntax in their relation to semantics; finite automata; formal grammar; categorial grammar.
 
@@ -20,7 +19,7 @@ TA
 |3    |Mar 25  |050-056  | | |     
 |4    |Apr 1  |058-066  | | |     
 |5    |Apr 8  |069-072| | | 
-|6    |Apr 15  || | | 
+|6    |Apr 15 |catch up week |[Assignment 1](assignments/cogs532-2022-assignment-01.pdf)| | 
 |7    |Apr 22  |074|  || 
 |8    |Apr 29  |076, 078|  | | 
 |9    |May 6 ||  | | 
