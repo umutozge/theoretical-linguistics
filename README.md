@@ -21,7 +21,7 @@ Informatics Institute, METU
 |5    |Apr 8  |069-072| | | 
 |6    |Apr 15 |catch up week |[Assignment 1](assignments/cogs532-2022-assignment-01.pdf)| | 
 |7    |Apr 22  |074|  || 
-|8    |Apr 29  |076, 078|  | | 
+|8    |Apr 29  |076, 078| [Assignment 2](assignments/cogs532-2022-assignment-02.pdf) | | 
 |9    |May 6 ||  | | 
 |10   |May 13 ||  | | 
 |11   |May 20 ||  | | 
