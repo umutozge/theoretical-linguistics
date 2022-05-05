@@ -22,9 +22,9 @@ Informatics Institute, METU
 |6    |Apr 15 |catch up week |[Assignment 1](assignments/cogs532-2022-assignment-01.pdf)| | 
 |7    |Apr 22  |074|  || 
 |8    |Apr 29  |076, 078| [Assignment 2](assignments/cogs532-2022-assignment-02.pdf) | | 
-|9    |May 6 ||  | | 
-|10   |May 13 ||  | | 
-|11   |May 20 ||  | | 
+|9    |May 6 | Spring break|  | | 
+|10   |May 13 |080-084|  | | 
+|11   |May 20 |086-090|  | | 
 |12   |May 27 || | |
 |13   |Jun 3 ||| |
 |14   |Jun 10 | |  | |
