@@ -25,9 +25,9 @@ Informatics Institute, METU
 |9    |May 6 | Spring break|  | | 
 |10   |May 13 |080-084|  | | 
 |11   |May 20 |086-090|  | | 
-|12   |May 27 || | |
-|13   |Jun 3 ||| |
-|14   |Jun 10 | |  | |
+|12   |May 27 | Lexicalism 1 |[Assignment 3](assignments/cogs532-2022-assignment-03.pdf) | |
+|13   |Jun 3 | Lexicalism 2|| |
+|14   |Jun 10 | Lexicalism 3 |  | |
 
 ### Online content (please download if your browser can't open the video)
 
