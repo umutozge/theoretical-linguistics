@@ -8,26 +8,26 @@ Informatics Institute, METU
 
 **Catalog Description:** Sound-meaning-structure relations in language; grammatical categories and functions; key concepts and methods of analysis in phonetics, phonology, morphology and syntax in their relation to semantics; finite automata; formal grammar; categorial grammar.
 
-###   Weekly Schedule (Spring 2022)
+###   Weekly Schedule (Spring 2023)
   
 
 
 |Week| Date   | Video | Assignment | Reading |
 :--- |:-------|:------|:---|:---
-|1    |Mar 11  |First meeting| |
-|2    |Mar 18  |042-048  | | |     
-|3    |Mar 25  |050-056  | | |     
-|4    |Apr 1  |058-066  | | |     
-|5    |Apr 8  |069-072| | | 
-|6    |Apr 15 |catch up week |[Assignment 1](assignments/cogs532-2022-assignment-01.pdf)| | 
-|7    |Apr 22  |074|  || 
-|8    |Apr 29  |076, 078| [Assignment 2](assignments/cogs532-2022-assignment-02.pdf) | | 
-|9    |May 6 | Spring break|  | | 
-|10   |May 13 |080-084|  | | 
-|11   |May 20 |086-090|  | | 
-|12   |May 27 | Lexicalism 1 |[Assignment 3](assignments/cogs532-2022-assignment-03.pdf) | |
-|13   |Jun 3 | Lexicalism 2|| |
-|14   |Jun 10 | Lexicalism 3 |  | |
+|1    |Mar 7  |First meeting| |
+|2    |Mar 14  || | |     
+|3    |Mar 21  || | |     
+|4    |Mar 28  || | |     
+|5    |Apr 4   || | | 
+|6    |Apr 11  || | | 
+|7    |Apr 18  || | |
+|8    |Apr 25  || | | 
+|9    |May 2   || | | 
+|10   |May 9   || | | 
+|11   |May 16  || | |    
+|12   |May 23  || | |  
+|13   |May 30  || | |
+|14   |Jun 6   || | |
 
 ### Online content (please download if your browser can't open the video)
 
@@ -80,9 +80,8 @@ Informatics Institute, METU
 * Readings
 * Reference books:  
     Olaf Koeneman and Hedde Zeijlstra (2017). *Introducing Syntax*. Cambridge University Press: Cambridge, UK.  
-	Partee, B. H., ter Meulen, A., and Wall, R. E. (1990). *Mathematical Methods in Linguistics*. Kluwer, Dodrecht.  
+	Cheng, L. L.-S. and Corver, N. (2013). *Diagnosing Syntax*. Oxford University Press: Oxford, UK.
 	Tallerman, M. (2015). *Understanding Syntax*. 4th Edition. Hodder Education, Croydon, UK.   
-	Borsley, R. D. and Börjars, K. (2011). *Non-transformational Syntax: Formal and Explicit Theories of Grammar*. Wiley-Blackwell, UK.  
 	Carnie, A. (2011). *Modern Syntax: A Coursebook*. Cambridge University Press, UK.  
 * [FOMA website](https://fomafst.github.io/) for modelling morphophonology.
 	
@@ -93,12 +92,13 @@ Informatics Institute, METU
 
 ### Requirements
 
-* Term assignments (70%); 
-* Final assignment (30%); 
+* Midterm Exam (30%)
+* Topic presentation (30%)
+* Research paper (40%)
 
 ### Attendance
 
-* Not graded. 
+* Do not expect much from this course, unless you are a regular attender.
 
 ### Assistance and support 
 
