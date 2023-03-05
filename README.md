@@ -12,22 +12,22 @@ Informatics Institute, METU
   
 
 
-|Week| Date   | Video | Assignment | Reading |
-:--- |:-------|:------|:---|:---
-|1    |Mar 7  |First meeting| |
-|2    |Mar 14  || | |     
-|3    |Mar 21  || | |     
-|4    |Mar 28  || | |     
-|5    |Apr 4   || | | 
-|6    |Apr 11  || | | 
-|7    |Apr 18  || | |
-|8    |Apr 25  || | | 
-|9    |May 2   || | | 
-|10   |May 9   || | | 
-|11   |May 16  || | |    
-|12   |May 23  || | |  
-|13   |May 30  || | |
-|14   |Jun 6   || | |
+|Week| Date  | Content | Assignment |
+:--- |:------|:--------|:-----------|
+|1    |Mar 7 |First meeting| |
+|2    |Mar 14|V042-050 | |
+|3    |Mar 21|| |      
+|4    |Mar 28|| |      
+|5    |Apr 4 || |  
+|6    |Apr 11|| |  
+|7    |Apr 18|| | 
+|8    |Apr 25|| | 
+|9    |May 2 || |  
+|10   |May 9 || |  
+|11   |May 16|| |     
+|12   |May 23|| |   
+|13   |May 30|| | 
+|14   |Jun 6 || | 
 
 ### Online content (please download if your browser can't open the video)
 
@@ -92,7 +92,7 @@ Informatics Institute, METU
 
 ### Requirements
 
-* Midterm Exam (30%)
+* Short quizzes (30%)
 * Topic presentation (30%)
 * Research paper (40%)
 
