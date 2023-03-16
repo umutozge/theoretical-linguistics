@@ -76,7 +76,7 @@ Informatics Institute, METU
 ### Material
 
 <!-- * [Lecture notes](notes/cogs532-lecture-notes.pdf); check regularly for updates.-->
-* [Videos](http://lfcs.ii.metu.edu.tr/var/vid/cogs532/), check the [errata](var/errata_for_videos.md) beforehand.
+* [Videos](http://lfcs.ii.metu.edu.tr/cr/cogs532/vid/), check the [errata](var/errata_for_videos.md) beforehand.
 * Readings
 * Reference books:  
     Olaf Koeneman and Hedde Zeijlstra (2017). *Introducing Syntax*. Cambridge University Press: Cambridge, UK.  
