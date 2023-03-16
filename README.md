@@ -16,8 +16,8 @@ Informatics Institute, METU
 :--- |:------|:--------|:-----------|
 |1    |Mar 7 |First meeting| |
 |2    |Mar 14|V042-050 | |
-|3    |Mar 21|| |      
-|4    |Mar 28|| |      
+|3    |Mar 21|V052, Ch. 2 K&Z | |      
+|4    |Mar 28|  | |      
 |5    |Apr 4 || |  
 |6    |Apr 11|| |  
 |7    |Apr 18|| | 
