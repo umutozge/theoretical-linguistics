@@ -12,12 +12,12 @@ Informatics Institute, METU
   
 
 
-|Week| Date  | Content | Assignment |
+|Week| Date  | Video | Reading |
 :--- |:------|:--------|:-----------|
 |1    |Mar 7 |First meeting| |
-|2    |Mar 14|V042-050 | |
-|3    |Mar 21|V052, Ch. 2 K&Z | |      
-|4    |Mar 28|  | |      
+|2    |Mar 14|042-050 | |
+|3    |Mar 21|052 |K&Z Ch. 2|      
+|4    |Mar 28|054, 056|K&Z Ch. 3|      
 |5    |Apr 4 || |  
 |6    |Apr 11|| |  
 |7    |Apr 18|| | 
