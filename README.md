@@ -19,7 +19,7 @@ Informatics Institute, METU
 |3    |Mar 21|052 |K&Z Ch. 2|      
 |4    |Mar 28|054, 056|K&Z Ch. 3|      
 |5    |Apr 4 |056-062|K&Z Ch. 4|  
-|6    |Apr 11|| |  
+|6    |Apr 11|064-072|K&Z Ch. 5|  
 |7    |Apr 18|| | 
 |8    |Apr 25|| | 
 |9    |May 2 || |  
