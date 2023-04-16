@@ -1,0 +1,139 @@
+\documentclass{article}
+
+
+\input{preamble.tex}
+
+\title{An English fragment}
+\author{COGS 532, Spring 2023}
+
+\begin{document}
+\maketitle
+
+
+\section{The formalism}
+
+
+We define the components of our formalism.
+
+\begin{gdefinition}[Vocabulary] The vocabulary of the grammar formalism
+	consists of the following sets:
+	\begin{enumerate}[label=\roman*.,labelsep=.5em]
+		\item a set of attribute symbols $A$;
+		\item a set of basic value symbols $V^b$;
+		\item a set of decorations  $D = \{u,x\}$; 
+		\item the set of value symbols $V=\setcomp{v}{v\in V^b \text{ or
+			} v=\prescript{\delta}{}{v'} \text{ for some } v'\in V^b
+		\text{ and } \delta\in D}$
+		\item a set of variables $X$;
+	\end{enumerate}
+\end{gdefinition}
+
+\begin{gdefinition}[Feature map] A feature map of a grammar, designated $\mu$,
+	is a function from $A$ to $\mathcal{P}(V)$.\footnote{$\mathcal{P}$ stands
+	for the power set function.} It maps each attribute symbol to the set of
+	possible values it can take.
+\end{gdefinition}
+
+% \begin{gdefinition}[Attribute-value pairs]
+% 	The set of attribute-value pairs of a grammar is defined as
+% 	\begin{align*}
+% 		\setcomp{a:v}{a\in A \text{ and } v\in \mu(a)}
+% 	\end{align*}
+% \end{gdefinition}
+
+\begin{gdefinition}[Feature structures]\label{dffs}
+	A possible feature structure defined in a grammar is some set
+	\begin{align*}
+		\setcomp{a:v}{a\in A' \text{ and } v\in \mu(a)} \text{ for some } 
+		A'\subseteq A
+	\end{align*}
+\end{gdefinition}
+
+Note that Definition~\ref{dffs} guarantees that a feature structure can set a
+value for an attribute at most once. Also, it rules out nested feature
+structures, where the value of an attribute is also a feature structure.
+
+
+\begin{gdefinition}[Merge]\label{dfmerge}
+	The operation Merge takes as input two feature structures $F_1$ and
+	$F_2$ and returns a feature structure $F_3$. The result is computed
+	through the following steps:
+	\begin{enumerate}[label=\roman*.,labelsep=.5em]
+		\item For each feature $a:v$ in $F_1$, if you find a feature 
+			$\un{a}:v$ in $F_2$ delete the latter, and vice versa.
+		\item For each feature $a:v$ in $F_1$, if you find a feature
+			$\ux{a}:v$ in $F_2$ delete both features, and vice
+			versa. 
+		\item If there are no conflicts in feature structures, merge
+			them into a single feature structure. 
+	\end{enumerate}
+\end{gdefinition}
+
+\section{Notational conventions}
+
+\begin{gconvention}
+	An attribute value pair $a:v$ is shortened to $a^v$.
+\end{gconvention}
+
+
+\begin{gconvention}
+	When obvious, we omit the attribute. E.g.\ we write $\syn{N}$ instead of
+	$\syn{Cat^N}$.
+\end{gconvention}
+
+\section{Features}
+
+\begin{tabular}{lll}
+	Attribute & Value             & Description\\ 
+	\syn{Cat}	  & \syn{N,V,D,Adj,C,\ldots} & category\\
+	\syn{Cmp}      & \syn{0,1,2,3}     & Number of missing complements\\
+	\syn{Spc}      & \syn{+,-}         & Specified or not \\
+	$\syn{\phi} $ \syn{0,1}    & Person, number\\ 
+
+\end{tabular}
+
+\section{Lexicon}
+
+\begin{glexicon}[nominal]
+\begin{align}
+\syndef{book}{[N,\un{V}]}\\
+\syndef{book}{[N,\un{Fin}]}\\
+\syndef{the}{[D,\ux{N}]}\\
+\syndef{a}{[D,\ux{N}]}\\
+\syndef{John}{[D,N]}
+\end{align}
+\end{glexicon}
+
+
+\begin{glexicon}[verbal]
+\begin{align}
+\syndef{sleep}{[V]}\\
+\syndef{love}{[V,\ux{D}]}\\
+\end{align}
+\end{glexicon}
+
+\begin{glexicon}[functional]
+\begin{align}
+				\syndef{-s}{[Fin^+,\ux{V},\ux{D}]}\\
+	      \syndef{to}{[Fin^-,\ux{V}]}\\
+\end{align}
+\end{glexicon}
+
+
+\ex. Mary loves John.
+
+\tikztree{
+	\Tree 
+	[.{Mary loves John}\\\syn{[Fin^+]}
+   {Mary}\\\syn{[D,\un{Fin^+}]}
+	 [.{loves John}\\\syn{[Fin^+,\ux{D}]}
+	 {-s}\\\syn{[Fin^+,\ux{V},\ux{D}]}
+    [.{love John}\\\syn{[V]}
+     {love}\\\syn{[V,\ux{D}]}
+     {John}\\\syn{[D,\un{V}]}
+     ]
+    ]
+   ]
+}[35][40]
+
+\end{document}
