@@ -96,13 +96,17 @@ structures, where the value of an attribute is also a feature structure.
 
 \begin{glexicon}[nominal]
 \begin{align}
-\syndef{book}{[N,\un{V}]}\\
+\syndef{book}{[N,acc]}\\
 \syndef{book}{[N,\un{Fin^+}]}\\
 \syndef{blue}{[\un{N}]}\\
 \syndef{the}{[D,\ux{N}]}\\
 \syndef{a}{[D,\ux{N}]}\\
-\syndef{John}{[D,\un{V}]}\\
-\syndef{John}{[D,\un{Fin^+}]}
+\syndef{John}{[D,Acc]}\\
+\syndef{John}{[D,\un{Fin^+}]}\\
+\syndef{him/her}{[D,Acc]}\\
+\syndef{s/he}{[D,\un{Fin^+}]}\\
+\syndef{to}{[P,\ux{D}\ux{acc}]}\\
+\syndef{of}{[\un{N},\ux{D}\ux{acc}]}
 \end{align}
 \end{glexicon}
 
@@ -110,7 +114,8 @@ structures, where the value of an attribute is also a feature structure.
 \begin{glexicon}[verbal]
 \begin{align}
 \syndef{sleep}{[V]}\\
-\syndef{love}{[V,\ux{D}]}\\
+\syndef{love}{[V,\ux{D},\ux{acc}]}\\
+\syndef{give}{[V,\ux{D},\ux{acc},\ux{P}]}
 \end{align}
 \end{glexicon}
 
@@ -131,11 +136,34 @@ structures, where the value of an attribute is also a feature structure.
 	 [.{loves John}\\\syn{[Fin^+,\ux{D}]}
 	 {-s}\\\syn{[Fin^+,\ux{V},\ux{D}]}
     [.{love John}\\\syn{[V]}
-     {love}\\\syn{[V,\ux{D}]}
-     {John}\\\syn{[D,\un{V}]}
+     {love}\\\syn{[V,\ux{D},\ux{acc}]}
+     {John}\\\syn{[D,acc]}
      ]
     ]
    ]
 }[35][40]
+
+
+\ex. the blue book
+\begin{align}
+\syndef{the}{[D,\ux{N}]}\\
+\syndef{blue}{[\un{N}]}\\
+\syndef{book}{[N,acc]}\\
+\syncomp{\text{blue book}}{[N,acc]}\\
+\syncomp{\text{the blue book}}{[D,acc]}\\
+\end{align}
+
+\ex. (the (wild (destruction (of Rome))))
+\begin{align}
+\syndef{the}{[D,\ux{N}]}\\
+\syndef{wild}{[\un{N}]}\\
+\syndef{destruction}{[N,acc]}\\
+\syndef{of}{[\un{N},\ux{D},\ux{acc}]}\\
+\syndef{Rome}{[D,acc]}\\
+\syncomp{\text{of Rome}}{[\un{N}]}\\
+\syncomp{\text{destruction of Rome}}{[N,acc]}\\
+\syncomp{\text{wild destruction of Rome}}{[N,acc]}\\
+\syncomp{\text{the wild destruction of Rome}}{[D,acc]}
+\end{align}
 
 \end{document}
