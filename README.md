@@ -23,7 +23,7 @@ Informatics Institute, METU
 |7    |Apr 18|_ditto_|_ditto_ | 
 |8    |Apr 25|074-080| K&Z Ch. 6 | 
 |9    |May 2 |082-090| K&Z Ch. 7 |  
-|10   |May 9 || |  
+|10   |May 9 ||Ch. 17 from Diagnosing Syntax |  
 |11   |May 16|| |     
 |12   |May 23|| |   
 |13   |May 30|| | 
