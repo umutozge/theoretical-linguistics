@@ -80,7 +80,7 @@ Informatics Institute, METU
 * Readings
 * Reference books:  
     Olaf Koeneman and Hedde Zeijlstra (2017). *Introducing Syntax*. Cambridge University Press: Cambridge, UK.  
-	Cheng, L. L.-S. and Corver, N. (2013). *Diagnosing Syntax*. Oxford University Press: Oxford, UK.
+	Cheng, L. L.-S. and Corver, N. (2013). *Diagnosing Syntax*. Oxford University Press: Oxford, UK.   
 	Tallerman, M. (2015). *Understanding Syntax*. 4th Edition. Hodder Education, Croydon, UK.   
 	Carnie, A. (2011). *Modern Syntax: A Coursebook*. Cambridge University Press, UK.  
 * [FOMA website](https://fomafst.github.io/) for modelling morphophonology.
