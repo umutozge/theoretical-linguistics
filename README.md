@@ -24,7 +24,7 @@ Informatics Institute, METU
 |8    |Apr 25|074-080| K&Z Ch. 6 | 
 |9    |May 2 |082-090| K&Z Ch. 7 |  
 |10   |May 9 ||Ch. 17 from Diagnosing Syntax |  
-|11   |May 16|| |     
+|11   |May 16|| [Kornfilt (2001)](readings/binding/kornfilt-reflexive.pdf), [Riemsdijk (2006)](readings/binding/riemsdijk-binding.pdf)   |     
 |12   |May 23|| |   
 |13   |May 30|| | 
 |14   |Jun 6 || | 
