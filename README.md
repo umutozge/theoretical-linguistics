@@ -27,7 +27,7 @@ Informatics Institute, METU
 |11   |May 16|| [Kornfilt (2001)](readings/binding/kornfilt-reflexive.pdf), [Reuland (2006)](readings/binding/reuland-binding.pdf)   |     
 |12   |May 23|| |   
 |13   |May 30|| [Bayer 2006](readings/wh/bayer-wh-in-situ.pdf), Ch. 7 from Diagnosing Syntax (optional) | 
-|14   |Jun 6 || | 
+|14   |Jun 6 || ditto| 
 
 ### Online content (please download if your browser can't open the video)
 
