@@ -2,7 +2,7 @@
 
 Theoretical linguistics aims at developing models of linguistic knowledge. In
 this course we will study computational models of morphology and syntax,
-interfaced to a basic semantics.[^1] 
+interfaced to a basic semantics.[^1]
 
 #### Prerequisites
 
@@ -16,8 +16,8 @@ course might be too difficult as a first course. COGS students who took 501 and
 #### Resources
 
 * [FOMA website](https://fomafst.github.io/) for modelling morphophonology.
-* Steedman (2019). [Combinatory Categorial Grammar](resources/pdfs/steedman-handbook.pdf). In _Current Approaches to Syntax_, de Gruyter Mouton.
-* Steedman (to appear). [On internal Merge](resources/pdfs/steedman-on-internal-merge.pdf), _Linguistic Inquiry_. 
+* Steedman (2019). [Combinatory Categorial Grammar](pdfs/steedman-handbook.pdf). In _Current Approaches to Syntax_, de Gruyter Mouton.
+* Steedman (to appear). [On internal Merge](pdfs/steedman-on-internal-merge.pdf), _Linguistic Inquiry_.
 * [SmallWorld](https://github.com/umutozge/smallworld)
 * [Supplements](supplements.md)
 
@@ -28,9 +28,9 @@ Assignments (mostly) in `foma` and `smallworld`. We will take best 80% (rounded 
 
 #### Policies
 
-Late submission: The only excuse for a late submission is a medical report for at least three days within the week of the assignment.  
+Late submission: The only excuse for a late submission is a medical report for at least three days within the week of the assignment.
 
-Attendance: 3 misses has no cost, for each further miss you lose one letter. 
+Attendance: 3 misses have no cost, for each further miss you lose one letter.
 
 
 
