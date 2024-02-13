@@ -2,6 +2,10 @@
 Informatics Institute, METU
 
 
+
+**THIS IS AN OLDER VERSION OF THE COURSE**
+
+
 [Umut Özge](https://umutozge.github.io)  
 
 [İlteriş Bozkurt](mailto:ilte9605@gmail.com) TA
