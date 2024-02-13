@@ -28,12 +28,11 @@ Assignments (mostly) in `foma` and `smallworld`. We will take best 80% (rounded 
 
 #### Policies
 
-* The only excuse for a late submission is a medical report for at least three days within the week of the assignment.
+Late submission: The only excuse for a late submission is a medical report for at least three days within the week of the assignment.  
+
+Attendance: 3 misses has no cost, for each further miss you lose one letter. 
 
 
-#### Attendance
-
-* 3 misses has no cost, for each further miss you lose one letter. 
 
 
 [^1]: For more detailed semantic modelling check [COGS 543](https://github.com/umutozge/computational-semantics).

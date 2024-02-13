@@ -9,7 +9,7 @@ Informatics Institute, METU
 Feb 20 2024, 🕐 14:40 @Informatics Institute S03
 ```
 
-[Course syllabus](Syllabus.md)
+[Course syllabus](resources/Syllabus.md)
 
 
 
