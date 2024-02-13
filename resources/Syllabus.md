@@ -19,7 +19,7 @@ course might be too difficult as a first course. COGS students who took 501 and
 * Steedman (2019). [Combinatory Categorial Grammar](resources/pdfs/steedman-handbook.pdf). In _Current Approaches to Syntax_, de Gruyter Mouton.
 * Steedman (to appear). [On internal Merge](resources/pdfs/steedman-on-internal-merge.pdf), _Linguistic Inquiry_. 
 * [SmallWorld](https://github.com/umutozge/smallworld)
-* [Supplements](resources/supplements.md)
+* [Supplements](supplements.md)
 
 
 #### Grading
