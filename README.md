@@ -15,7 +15,7 @@ Feb 20 2024, 🕐 14:40 @Informatics Institute S03
 |Week| Date  |
 :--- |:------|
 |1   |First meeting|
-|2   |[:calendar: 27/2](weeks/w02.md)|
+|2   |[:calendar: 27/2](resources/weeks/w02.md)|
 </details>
 
 <details>
