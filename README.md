@@ -1,5 +1,5 @@
-### COGS 532 - Theoretical Linguistics 
-Informatics Institute, METU
+COGS 532 - Theoretical Linguistics - II, METU
+---------------------------------------------
 
 
 [Umut Özge](mailto:umozge@metu.edu.tr), [İlteriş Bozkurt](mailto:ilte9605@gmail.com) (TA)
@@ -19,7 +19,10 @@ Feb 20 2024, 🕐 14:40 @Informatics Institute S03
 
 |Week| Date  |
 :--- |:------|
-|1   |Feb 20 - First meeting |
+|1   |20/2 - First meeting |
+|2   |[27/2](weeks/w02.md) |
+
+</details>
 
 <details>
 <summary>
@@ -45,16 +48,16 @@ course might be too difficult as a first course. COGS students who took 501 and
 
 ##### Resources
 
-* [FOMA website](https://fomafst.github.io/) for modelling morphophonology.
+* [`foma` website](https://fomafst.github.io/) for modelling morphophonology.
 * Steedman (2019). [Combinatory Categorial Grammar](resources/pdfs/steedman-handbook.pdf). In _Current Approaches to Syntax_, de Gruyter Mouton.
 * Steedman (to appear). [On internal Merge](resources/pdfs/steedman-on-internal-merge.pdf), _Linguistic Inquiry_.
-* [SmallWorld](https://github.com/umutozge/smallworld)
+* [`SmallWorld`](https://github.com/umutozge/smallworld)
 * [Supplements](resources/supplements.md)
 
 
 ##### Grading
 
-Assignments (mostly) in `foma` and `smallworld`. We will take best 80% (rounded down) of your assignments into account.
+Assignments (mostly) in `foma` and `SmallWorld`. We will take best 80% (rounded down) of your assignments into account.
 
 ##### Policies
 

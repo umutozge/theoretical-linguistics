@@ -1,5 +1,10 @@
-### Supplementary course material for COGS 532
+Supplementary course material for COGS 532
+------------------------------------------
 
+#### Notes 
+
+- [Basics of formal languages + regular languages](pdfs/01_cogs501-regular-languages.pdf)
+- [Finite automata](pdfs/02_cogs501-finite-automata.pdf)
 
 
 #### Videos 
