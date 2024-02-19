@@ -1,4 +1,4 @@
-COGS 532 - Theoretical Linguistics - METU Informatics
+COGS 532 - Theoretical Linguistics - METU (CogSci)
 -----------------------------------------------------
 
 [Umut Özge](mailto:umozge@metu.edu.tr), [İlteriş Bozkurt](mailto:ilte9605@gmail.com) (TA)
@@ -31,6 +31,8 @@ Theoretical linguistics aims at developing models of linguistic knowledge. In
 this course we will study computational models of morphology and syntax,
 interfaced to a basic semantics.[^1]
 
+[^1]: For more detailed semantic modelling check [COGS 543](https://github.com/umutozge/computational-semantics).
+
 ##### Prerequisites
 
 You **must** attend the first session to be eligible to take this course --
@@ -60,7 +62,4 @@ Late submission: The only excuse for a late submission is a medical report for a
 
 Attendance: 3 misses have no cost, for each further miss you lose one letter.
 
-[^1]: For more detailed semantic modelling check [COGS 543](https://github.com/umutozge/computational-semantics).
-
-
-</details>
+</details> 
