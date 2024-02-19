@@ -1,27 +1,21 @@
-COGS 532 - Theoretical Linguistics - II, METU
----------------------------------------------
-
+COGS 532 - Theoretical Linguistics - METU Informatics
+-----------------------------------------------------
 
 [Umut Özge](mailto:umozge@metu.edu.tr), [İlteriş Bozkurt](mailto:ilte9605@gmail.com) (TA)
-
 
 ```
 Feb 20 2024, 🕐 14:40 @Informatics Institute S03
 ```
-
-
 <details>
 <summary>
 
 #### Weekly schedule
 </summary>
 
-
 |Week| Date  |
 :--- |:------|
-|1   |20/2 - First meeting |
-|2   |[27/2](weeks/w02.md) |
-
+|1   |First meeting|
+|2   |[:calendar: 27/2](weeks/w02.md)|
 </details>
 
 <details>
@@ -48,7 +42,8 @@ course might be too difficult as a first course. COGS students who took 501 and
 
 ##### Resources
 
-* [`foma` website](https://fomafst.github.io/) for modelling morphophonology.
+* Beesley and Karttunen (2003). [Finite State Morphology](resources/pdfs/fsm.djvu), CSLI.
+* [`foma`](https://fomafst.github.io/) for modelling morphophonology.
 * Steedman (2019). [Combinatory Categorial Grammar](resources/pdfs/steedman-handbook.pdf). In _Current Approaches to Syntax_, de Gruyter Mouton.
 * Steedman (to appear). [On internal Merge](resources/pdfs/steedman-on-internal-merge.pdf), _Linguistic Inquiry_.
 * [`SmallWorld`](https://github.com/umutozge/smallworld)
@@ -65,7 +60,7 @@ Late submission: The only excuse for a late submission is a medical report for a
 
 Attendance: 3 misses have no cost, for each further miss you lose one letter.
 
-
 [^1]: For more detailed semantic modelling check [COGS 543](https://github.com/umutozge/computational-semantics).
+
 
 </details>

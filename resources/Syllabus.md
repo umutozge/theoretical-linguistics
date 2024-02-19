@@ -12,7 +12,6 @@ and computation, if you have not taken a course in neither field, this
 course might be too difficult as a first course. COGS students who took 501 and
 502 (and preferably an introductory linguistics course) should do fine.
 
-
 #### Resources
 
 * Beesley and Karttunen (2003). [Finite State Morphology](pdfs/fsm.djvu), CSLI.
