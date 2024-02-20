@@ -54,7 +54,7 @@ course might be too difficult as a first course. COGS students who took 501 and
 
 ##### Grading
 
-Assignments (mostly) in `foma` and `SmallWorld`. We will take best 80% (rounded down) of your assignments into account.
+Weekly assignments
 
 ##### Policies
 
