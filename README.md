@@ -4,7 +4,7 @@ COGS 532 - Theoretical Linguistics - METU (CogSci)
 [Umut Özge](mailto:umozge@metu.edu.tr), [İlteriş Bozkurt](mailto:ilte9605@gmail.com) (TA)
 
 ```
-Feb 20 2024, 🕐 14:40 @Informatics Institute S03
+Tuesdays 🕐 14:40 @Informatics Institute S03
 ```
 <details>
 <summary>
