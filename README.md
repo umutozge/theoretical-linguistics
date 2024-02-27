@@ -8,7 +8,8 @@ Tuesdays 🕐 14:40 @Informatics Institute S03
 ```
 <details open>
 <summary>
-  #### Weekly schedule
+  Weekly schedule
+  ~~~~~~~~~~~~~~~
 </summary>
 
 |Week| Date  |
