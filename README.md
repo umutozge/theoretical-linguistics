@@ -8,8 +8,7 @@ Tuesdays 🕐 14:40 @Informatics Institute S03
 ```
 <details open>
 <summary>
-  Weekly schedule
-  ~~~~~~~~~~~~~~~
+  <span style="color:#fff; font-size: 4em;">Weekly schedule</span>
 </summary>
 
 |Week| Date  |
