@@ -6,9 +6,8 @@ COGS 532 - Theoretical Linguistics - METU (CogSci)
 ```
 Tuesdays 🕐 14:40 @Informatics Institute S03
 ```
-<details>
+<details open>
 <summary>
-
 #### Weekly schedule
 </summary>
 
@@ -20,10 +19,8 @@ Tuesdays 🕐 14:40 @Informatics Institute S03
 
 <details>
 <summary>
-
 #### Syllabus
 </summary>
-
 
 ##### About
 
