@@ -5,6 +5,7 @@ Supplementary course material for COGS 532
 
 - [Basics of formal languages + regular languages](pdfs/01_cogs501-regular-languages.pdf)
 - [Finite automata](pdfs/02_cogs501-finite-automata.pdf)
+- [Outline of Turkish morphology](pdfs/outline.pdf)
 
 
 #### Videos 

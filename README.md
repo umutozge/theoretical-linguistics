@@ -61,4 +61,4 @@ Late submission: The only excuse for a late submission is a medical report for a
 
 Attendance: 3 misses have no cost, for each further miss you lose one letter.
 
-</details> 
+</details>
