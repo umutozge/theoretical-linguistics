@@ -43,11 +43,23 @@ course might be too difficult as a first course. COGS students who took 501 and
 
 ##### Resources
 
+
+Morpho(phono)logy:
+
 * Beesley and Karttunen (2003). [Finite State Morphology](resources/pdfs/fsm.djvu), CSLI.
-* [`foma`](https://fomafst.github.io/) for modelling morphophonology.
+* Göksel and Kerslake (2004). Turkish: A Comprehensive Grammar, Routledge.([excerpts](resources/pdfs/gk-morphophon.pdf))
+* [Basics of formal languages + regular languages](pdfs/01_cogs501-regular-languages.pdf)
+* [Finite automata](pdfs/02_cogs501-finite-automata.pdf)
+* Software: [`foma`](https://fomafst.github.io/) for modelling morphophonology.
+
+Syntax:
+
 * Steedman (2019). [Combinatory Categorial Grammar](resources/pdfs/steedman-handbook.pdf). In _Current Approaches to Syntax_, de Gruyter Mouton.
 * Steedman (to appear). [On internal Merge](resources/pdfs/steedman-on-internal-merge.pdf), _Linguistic Inquiry_.
-* [`SmallWorld`](https://github.com/umutozge/smallworld)
+* Software: [`SmallWorld`](https://github.com/umutozge/smallworld)
+
+Some additional material for linguistic background:
+
 * [Supplements](resources/supplements.md)
 
 
