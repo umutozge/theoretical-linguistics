@@ -6,9 +6,10 @@ COGS 532 - Theoretical Linguistics - METU (CogSci)
 ```
 Tuesdays 🕐 14:40 @Informatics Institute S03
 ```
+
 <details open>
 <summary>
-  <span style="color:green">Weekly schedule</span>
+  Weekly schedule
 </summary>
 
 |Week| Date  |
@@ -18,6 +19,7 @@ Tuesdays 🕐 14:40 @Informatics Institute S03
 |3   |[:calendar: 5/3](resources/weeks/w03.md)|
 |4   |[:calendar: 12/3](resources/weeks/w04.md)|
 |5   |[:calendar: 19/3](resources/weeks/w05.md)|
+|6   |[:calendar: 26/3](resources/weeks/w06.md)|
 </details>
 
 <details>
