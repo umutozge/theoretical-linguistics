@@ -69,5 +69,5 @@ push RemMorphBound
 push ConsAlter
 push HRule
 push ARule
-read lexc tr-nom.lexc
+read lexc tur.lexc
 compose net
