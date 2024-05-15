@@ -26,7 +26,7 @@ Tuesdays 🕐 14:40 @Informatics Institute S03
 |10   |:calendar: 30/4|
 |11   |[:calendar: 7/5](resources/weeks/w11.md)|
 |12   |[:calendar: 14/5](resources/weeks/w12.md)|
-|13   |:calendar: 21/5|
+|13   |[:calendar: 21/5](resources/weeks/w13.md)|
 |14   |:calendar: 28/5|
 </details>
 
