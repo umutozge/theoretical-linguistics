@@ -1,0 +1,41 @@
+# Vowels
+define V [ a | e | i | o | u ];
+
+# Consonant doubling: 1-letter consonant doubled before -ing/-ed (beg/begging)
+define ConsonantDoubling g -> g g || _ "^" [i n g | e d ];
+
+# E deletion: silent e dropped before -ing and -ed (make/making)
+define EDeletion e -> 0 || _ "^" [ i n g | e d ] ;
+
+# E insertion e added after -s, -z, -x, -ch, -sh before s (watch/watches)
+define EInsertion [..] -> e || s | z | x | c h | s h _ "^" s ;
+
+# Y replacement: -y changes to -ie before -s, -i before -ed (try/tries)
+define YReplacement y -> i e || _ "^" s    ,,
+                    y -> i   || _ "^" e d  ;
+
+# K insertion: verbs ending with vowel + -c add -k (panic/panicked)
+define KInsertion [..] -> k || V c _ "^" [e d | i n g];
+
+# Cleanup: remove morpheme boundaries
+define Cleanup "^" -> 0;
+
+
+# Format: Convert to SmallWorld input format
+define SWFormat " " <-> %+;
+
+
+read lexc m-relatives.lexc
+define Lexicon
+
+define Grammar	
+		SWFormat	  .o. 
+		Lexicon           .o.
+              	ConsonantDoubling .o.
+		EDeletion         .o.
+		EInsertion        .o.
+		YReplacement      .o.
+		KInsertion        .o.
+		Cleanup		 ;
+
+push Grammar

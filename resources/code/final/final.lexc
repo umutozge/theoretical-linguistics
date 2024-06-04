@@ -1,0 +1,95 @@
+LEXICON Root
+
+Noun ;
+PNoun ;
+Verb ;
+Det ;
+Compl ;
+Prep ;
+WH ;
+
+LEXICON Noun
+
+spy   NCat;
+doctor   NCat;
+
+LEXICON PNoun
+
+harry   PNCat;
+sally   PNCat;
+alice   PNCat;
+vertigo PNCat;
+
+
+LEXICON NCat
+
++n:0 NNum;
+
+LEXICON PNCat
+
++pn+sg+num:0 NCase;
+
+LEXICON NNum
++sg+num:0 NCase;
++pl+num:^s NCase;
+
+LEXICON NCase
+
++acc+case:0 #;
++nom+case:0 #;
+
+LEXICON Verb
+
+talk  VCat;
+walk  VCat;
+like  VCat;
+beg   VCat;
+make  VCat;
+panic VCat;
+try   VCat;
+watch VCat;
+persuade VCat;
+promise VCat;
+
+think+v:think #;
+think+v+%0+agr+past+tense:thought #;
+think+v+1+agr+pres+tense:thinks #;
+think+v+%0+agr+pres+tense:think #;
+
+LEXICON VCat
+
++v:0 VInf;
++v:0 #;
+
+LEXICON VInf
+
++%0+agr+pres+tense:0  #;
++1+agr+pres+tense:^s  #;
++%0+agr+past+tense:^ed #;
+
+LEXICON Det
+
+the   DCat;
+
+LEXICON DCat
+
++D:0 #;
+
+LEXICON Compl
+
+that CCat;
+
+LEXICON CCat
++C:0 #;
+
+LEXICON Prep
+
+to PCat;
+
+LEXICON PCat
++P:0 #;
+
+LEXICON WH
+
+who+wh:who #;
+whom+wh:whom #;

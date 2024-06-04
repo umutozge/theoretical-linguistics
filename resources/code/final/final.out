@@ -1,0 +1,52 @@
+
+--------------------PARSE 1--------------------
+
+[(> (< (< harry sg) nom) (< (b< like (b< 0 past)) (< (< vertigo sg) acc))) = s : like'vertigo'harry']
+
+------------------------------------------------
+
+--------------------PARSE 1--------------------
+
+[(> (< (< harry sg) nom)
+  (> (b< think (b< 0 past))
+   (> that
+    (> (< (< sally sg) nom) (< (b< like (b< 0 past)) (< (< vertigo sg) acc)))))) = s : think'(like'vertigo'sally') harry']
+
+------------------------------------------------
+
+--------------------PARSE 1--------------------
+
+[(> (< (> the (< doctor sg)) nom)
+  (> (b< think (b< 0 past))
+   (> that
+    (> (< (< harry sg) nom)
+     (< (b< watch (b< 0 past)) (< (< vertigo sg) acc)))))) = s : think'(watch'vertigo'harry') (the'(𝛌x .doctor'x)) ]
+
+------------------------------------------------
+
+*HARRY THINK THAT THE SPY LIKED SALLY
+
+--------------------PARSE 1--------------------
+
+[(> (< (< harry sg) nom)
+  (> (b< think (b< 1 pres))
+   (> that
+    (> (< (> the (< spy sg)) nom)
+     (< (b< like (b< 0 pres)) (< (< sally sg) acc)))))) = s : think'(like'sally'(the'(𝛌x .spy'x))) harry']
+
+------------------------------------------------
+
+*THE DOCTOR THINK THAT HARRY WATCHED VERTIGO
+
+--------------------PARSE 1--------------------
+
+[(> (< (> the (< doctor pl)) nom)
+  (> (b< think (b< 0 pres))
+   (> that
+    (> (< (< harry sg) nom)
+     (> (b< think (b< 1 pres))
+      (> that
+       (> (< (< sally sg) nom)
+        (< (b< like (b< 1 pres)) (< (< vertigo sg) acc))))))))) = s : think'(think'(like'vertigo'sally') harry') (the'(𝛌x .doctor'x)) ]
+
+------------------------------------------------
