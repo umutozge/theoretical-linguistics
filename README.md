@@ -59,8 +59,8 @@ Morpho(phono)logy:
 
 * Beesley and Karttunen (2003). [Finite State Morphology](resources/pdfs/fsm.djvu), CSLI.
 * Göksel and Kerslake (2004). Turkish: A Comprehensive Grammar, Routledge.([excerpts](resources/pdfs/gk-morphophon.pdf))
-* [Basics of formal languages + regular languages](pdfs/01_cogs501-regular-languages.pdf)
-* [Finite automata](pdfs/02_cogs501-finite-automata.pdf)
+* [Basics of formal languages + regular languages](resources/pdfs/01_cogs501-regular-languages.pdf)
+* [Finite automata](resources/pdfs/02_cogs501-finite-automata.pdf)
 * Software: [`foma`](https://fomafst.github.io/) for modelling morphophonology.
 
 Syntax:
