@@ -1,10 +1,10 @@
 COGS 532 - Theoretical Linguistics - METU (CogSci)
------------------------------------------------------
+--------------------------------------------------
 
 [Umut Özge](mailto:umozge@metu.edu.tr), [İlteriş Bozkurt](mailto:ilte9605@gmail.com) (TA)
 
 ```
-Tuesdays 🕐 14:40 @Informatics Institute S03
+Thursdays 🕐 14:40 @Informatics Institute S03
 ```
 
 <details open>
@@ -14,47 +14,42 @@ Tuesdays 🕐 14:40 @Informatics Institute S03
 
 |Week| Date  |
 :--- |:------|
-|1   |First meeting|
-|2   |[:calendar: 27/2](resources/weeks/w02.md)|
-|3   |[:calendar: 5/3](resources/weeks/w03.md)|
-|4   |[:calendar: 12/3](resources/weeks/w04.md)|
-|5   |[:calendar: 19/3](resources/weeks/w05.md)|
-|6   |[:calendar: 26/3](resources/weeks/w06.md)|
-|7   |[:calendar: 2/4](resources/weeks/w07.md)|
-|8   |[:calendar: 16/4](resources/weeks/w08.md)|
-|9   |:calendar: 23/4|
-|10   |:calendar: 30/4|
-|11   |[:calendar: 7/5](resources/weeks/w11.md)|
-|12   |[:calendar: 14/5](resources/weeks/w12.md)|
-|13   |[:calendar: 21/5](resources/weeks/w13.md)|
-|14   |:calendar: 28/5|
+|1   |[:calendar: 3/10](resources/weeks/w01.md)|
 </details>
 
-<details>
+<details open>
 <summary>
   <span style="background-color:green">Syllabus</span>
 </summary>
 
 ##### About
 
-Theoretical linguistics aims at developing models of linguistic knowledge. In
-this course we will study computational models of morphology and syntax,
-interfaced to a basic semantics.[^1]
+Theoretical linguistics aims at developing models of linguistic knowledge. The
+course is an introduction to the field from a computational perspective. The
+course does not offer an introduction to topics pertaining to the processing and
+acquisition of language, fields that make essential use of probability and
+statistical learning. The area of the course also differs widely from Natural
+Language Processing, which is an engineering discipline that aims at developing
+language technologies with human-level performance. Finally, the course will
+have only a cursory discussion of semantics, to be taken up in more detail in
+the sequel [COGS 543](https://github.com/umutozge/computational-semantics).
 
-[^1]: For more detailed semantic modelling check [COGS 543](https://github.com/umutozge/computational-semantics).
+The course would suit you in the following cases:
+
+* I am a CogSci student and,
+    - I would like to have an introductory course that will
+    fulfil my language track requirement;
+    - I am interested in doing language-related research.
+* I am not a CogSci student, I have some linguistics background, but I never used a computer to build
+    and try out my analyses.
 
 ##### Prerequisites
 
-You **must** attend the first session to be eligible to take this course --
-this is necessary but not sufficient. The course brings together linguistics
-and computation, if you have not taken a course in neither field, this
-course might be too difficult as a first course. COGS students who took 501 and
-502 (and preferably an introductory linguistics course) should do fine.
-
+You **must** attend the first session to be eligible to take this course.
 
 ##### Resources
 
-
+<!---
 Morpho(phono)logy:
 
 * Beesley and Karttunen (2003). [Finite State Morphology](resources/pdfs/fsm.djvu), CSLI.
@@ -64,7 +59,8 @@ Morpho(phono)logy:
 * Software: [`foma`](https://fomafst.github.io/) for modelling morphophonology.
 
 Syntax:
-
+--->
+* Adger (2003). _Core Syntax_. Oxford University Press.
 * Steedman (2019). [Combinatory Categorial Grammar](resources/pdfs/steedman-handbook.pdf). In _Current Approaches to Syntax_, de Gruyter Mouton.
 * Steedman (to appear). [On internal Merge](resources/pdfs/steedman-on-internal-merge.pdf), _Linguistic Inquiry_.
 * Software: [`SmallWorld`](https://github.com/umutozge/smallworld)
@@ -73,15 +69,15 @@ Some additional material for linguistic background:
 
 * [Supplements](resources/supplements.md)
 
-
 ##### Grading
 
-Weekly assignments
+* Assignments
+* Quizzes
+* Final exam
+
 
 ##### Policies
 
-Late submission: The only excuse for a late submission is a medical report for at least three days within the week of the assignment.
-
-Attendance: 3 misses have no cost, for each further miss you lose one letter.
+Late submission: The only excuse for a late submission is a medical report for **at least three days** within the week of the assignment.
 
 </details>
