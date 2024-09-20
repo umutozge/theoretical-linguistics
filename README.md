@@ -26,19 +26,18 @@ Thursdays 🕐 14:40 @Informatics Institute S03
 
 Theoretical linguistics aims at developing models of linguistic knowledge. The
 course is an introduction to the field from a computational perspective. The
-course does not offer an introduction to topics pertaining to the processing and
+course does not include topics pertaining to the processing and
 acquisition of language, fields that make essential use of probability and
-statistical learning. The area of the course also differs widely from Natural
-Language Processing, which is an engineering discipline that aims at developing
-language technologies with human-level performance. Finally, the course will
-have only a cursory discussion of semantics, to be taken up in more detail in
+statistical learning. The course also differs widely from Natural
+Language Processing, an engineering discipline that aims at developing
+language technologies with human-level performance. Finally, we will
+have only a cursory discussion of semantics, deferring a more detailed look to
 the sequel [COGS 543](https://github.com/umutozge/computational-semantics).
 
 The course would suit you in the following cases:
 
-* I am a CogSci student and,
-    - I would like to have an introductory course that will
-    fulfil my language track requirement;
+* I am a CogSci student, and either,
+    - I need a course to fulfil my language track requirement, or,
     - I am interested in doing language-related research.
 * I am not a CogSci student, I have some linguistics background, but I never used a computer to build
     and try out my analyses.
@@ -65,9 +64,7 @@ Syntax:
 * Steedman (to appear). [On internal Merge](resources/pdfs/steedman-on-internal-merge.pdf), _Linguistic Inquiry_.
 * Software: [`SmallWorld`](https://github.com/umutozge/smallworld)
 
-Some additional material for linguistic background:
-
-* [Supplements](resources/supplements.md)
+You may find some supplementary material [here](resources/supplements.md).
 
 ##### Grading
 
@@ -75,6 +72,7 @@ Some additional material for linguistic background:
 * Quizzes
 * Final exam
 
+Percentages are decided on the basis of the difficulty of the particular item. There will be bonuses to make up for missed quizzes and bad days.
 
 ##### Policies
 
