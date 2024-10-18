@@ -12,8 +12,8 @@ Thursdays 🕐 14:40 @Informatics Institute S03
   Weekly schedule
 </summary>
 
-|Week| Date  |
-:--- |:------|
+|Week| Date  | Quiz |
+:--- |:------|:------|
 |1   |[:calendar: 3/10](resources/weeks/w01.md)| |
 |2   |[:calendar: 10/10](resources/weeks/w02.md)||
 |3   |[:calendar: 17/10](resources/weeks/w03.md)|[quiz](resources/weeks/q03.md)|
