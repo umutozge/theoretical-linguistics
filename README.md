@@ -14,10 +14,10 @@ Thursdays 🕐 14:40 @Informatics Institute S03
 
 |Week| Date  | Quiz |
 :--- |:------|:------|
-|1   |[:calendar: 3/10](resources/weeks/w01.md)| |
-|2   |[:calendar: 10/10](resources/weeks/w02.md)||
-|3   |[:calendar: 17/10](resources/weeks/w03.md)|[quiz](resources/weeks/q03.md)|
-|4   |[:calendar: 24/10](resources/weeks/w04.md)||
+|1   |[:calendar: 3/10](material/R.20241003.md)| |
+|2   |[:calendar: 10/10](material/R.20241010.md)||
+|3   |[:calendar: 17/10](material/R.20241017.md)|[quiz](material/Q.20241017.md)|
+|4   |[:calendar: 24/10](material/R.20241024.md)||
 </details>
 
 <details open>
@@ -63,8 +63,8 @@ Morpho(phono)logy:
 Syntax:
 --->
 * Adger (2003). _Core Syntax_. Oxford University Press.
-* Steedman (2019). [Combinatory Categorial Grammar](resources/pdfs/steedman-handbook.pdf). In _Current Approaches to Syntax_, de Gruyter Mouton.
-* Steedman (to appear). [On internal Merge](resources/pdfs/steedman-on-internal-merge.pdf), _Linguistic Inquiry_.
+* Steedman (2019). [Combinatory Categorial Grammar](http://homepages.inf.ed.ac.uk/steedman/papers/ccg/moravcsik2.pdf). In _Current Approaches to Syntax_, de Gruyter Mouton.
+* Steedman (to appear). [On internal Merge](http://homepages.inf.ed.ac.uk/steedman/papers/ccg/minimalism9.pdf), _Linguistic Inquiry_.
 * Software: [`SmallWorld`](https://github.com/umutozge/smallworld)
 
 You may find some supplementary material [here](resources/supplements.md).
