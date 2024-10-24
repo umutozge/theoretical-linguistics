@@ -1,4 +1,4 @@
-Quiz  (17/10) - COGS 532/Fall 2024
+COGS532 &ndash; 2024F &ndash; Quiz I (17/10)
 ------------------------------------
 1. **[3pts]**
     Briefly explain the difference between the concepts **proposition**,
