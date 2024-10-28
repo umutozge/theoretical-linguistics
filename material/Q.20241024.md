@@ -34,6 +34,12 @@ COGS532 &ndash; 2024F &ndash; Quiz II (24/10)
    - Apply plural marking (-lar/-ler)
      - If word accepts plural → Likely N
      - If word rejects plural → Could be A or other
+   - Apply diminutive marking (-ce/-ca)
+     - If word accepts diminutive → Confirms A \
+       Example: güzel → güzelce (bir kız)
+   - Apply approximation marking (-den/-dan/-ten/-tan)
+     - If word accepts approximation → Confirms A \
+       Example: genç → gençten (bir çocuk)
    
    **Step 2: Syntactic Tests**
    - Test if word can take case markers
@@ -42,6 +48,10 @@ COGS532 &ndash; 2024F &ndash; Quiz II (24/10)
    - Test if word can be modified by degree words (çok "very")
      - If accepts degree modification → Confirms A
      - If rejects degree modification → Not A
+   - Test if word can form manner adverbs with -ce/-ca
+     - If forms manner adverb → Confirms A \
+       Example: hızlı → hızlıca koştu, zeki → zekice konuştu \
+       Note: Not all adjectives allow this (e.g., color terms)
    
    **Step 3: Classification**
    - If passes N tests only → Classify as N
