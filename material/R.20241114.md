@@ -3,8 +3,8 @@ COGS 532 - :calendar: 14/11 - Fall 2024
 
 Reading
 -------
-* [Michaelson](http://lfcs.ii.metu.edu.tr/port/michaelson-intro-funcprog-with-lambda.pdf) S. 2.4-2.9 (inclusive). 
-* Optionally start reading [$\lambda$-calculus notes](http://lfcs.ii.metu.edu.tr/port/lambda-calculus.pdf), if the above is not sufficiently clear.
+* [Michaelson](http://lfcs.ii.metu.edu.tr/port/michaelson-intro-funcprog-with-lambda.pdf) Sections 2.4-2.9 (inclusive). 
+* Optionally start reading [lambda-calculus notes](http://lfcs.ii.metu.edu.tr/port/lambda-calculus.pdf), if the above is not sufficiently clear.
 
 
 Checklist
