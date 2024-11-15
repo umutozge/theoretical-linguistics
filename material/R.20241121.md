@@ -4,7 +4,7 @@ COGS 532 - :calendar: 21/11 - Fall 2024
 Reading
 -------
 
-* (Steedman (2019))[http://homepages.inf.ed.ac.uk/steedman/papers/ccg/moravcsik2.pdf], up to Section 4 (exclusive).
+* [Steedman (2019)](http://homepages.inf.ed.ac.uk/steedman/papers/ccg/moravcsik2.pdf), up to Section 4 (exclusive).
 
 Checklist
 ---------
