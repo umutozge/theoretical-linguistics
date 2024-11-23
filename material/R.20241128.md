@@ -10,7 +10,7 @@ Checklist
 ---------
 * Now, derivations should look more tractable. 
 * Try to derive these examples by defining the syntax and semantics of the lexical items occurring in them:
-    - `John shut the door : shut'john'the'(door')`
-    - `John didn't shut the door : not'(shut'john'the'(door'))` 
+    - `John shut the door : shut'(the'door')john'`
+    - `John didn't shut the door : not'(shut'(the'door')john')` 
     - `Harry thought John sleeps : thought'(sleeps'john')harry'`
 
