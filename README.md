@@ -14,15 +14,16 @@ Thursdays 🕐 14:40 @Informatics Institute S03
 
 |Week| Date  | Quiz |
 :--- |:------|:------|
-|1   |[:calendar: 3/10](material/R.20241003.md)| |
-|2   |[:calendar: 10/10](material/R.20241010.md)||
-|3   |[:calendar: 17/10](material/R.20241017.md)|[quiz](material/S.20241017.md)|
-|4   |[:calendar: 24/10](material/R.20241024.md)|[quiz](material/S.20241024.md)|
-|5   |[:calendar: 31/10](material/R.20241031.md)||
-|6   |[:calendar: 7/11](material/R.20241107.md)||
-|7   |[:calendar: 14/11](material/R.20241114.md)||
-|8   |[:calendar: 21/11](material/R.20241121.md)||
-|8   |[:calendar: 28/11](material/R.20241128.md)||
+|1   |[:calendar: 3/10](material/R.532.1003.md)| |
+|2   |[:calendar: 10/10](material/R.532.1010.md)||
+|3   |[:calendar: 17/10](material/R.532.1017.md)|[quiz](material/S.532.1017.md)|
+|4   |[:calendar: 24/10](material/R.532.1024.md)|[quiz](material/S.532.1024.md)|
+|5   |[:calendar: 31/10](material/R.532.1031.md)||
+|6   |[:calendar: 7/11](material/R.532.1107.md)||
+|7   |[:calendar: 14/11](material/R.532.1114.md)||
+|8   |[:calendar: 21/11](material/R.532.1121.md)||
+|9   |[:calendar: 28/11](material/R.532.1128.md)||
+|10  |[:calendar: 5/12](material/R.532.1128.md)||
 </details>
 
 <details open>
