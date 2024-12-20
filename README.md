@@ -26,6 +26,7 @@ Thursdays 🕐 14:40 @Informatics Institute S03
 |10  |[:calendar: 5/12](material/R.532.20241128.md)||
 |11  |[:calendar: 12/12](material/R.532.20241212.md)||
 |12  |[:calendar: 19/12](material/R.532.20241219.md)|[solution](material/S.532.20241219.md)|
+|13  |[:calendar: 26/12](material/R.532.20241226.md)||
 </details>
 
 <details open>
