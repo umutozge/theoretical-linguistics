@@ -27,16 +27,16 @@ The assignment is due Jan 5 and worths **[5pts]**.
     content in.):
 
     ```
-john chases the dog
-the dog chases john
-the dog sleeps
-the dogs sleep
-john loves
-a dog loves
-john love mary
-the dog love mary
-the dogs sleeps
-```
+    john chases the dog
+    the dog chases john
+    the dog sleeps
+    the dogs sleep
+    john loves
+    a dog loves
+    john love mary
+    the dog love mary
+    the dogs sleeps
+    ```
 
 The output must be like:
 
