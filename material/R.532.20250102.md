@@ -41,7 +41,6 @@ The assignment is due Jan 5 and worths **[5pts]**.
 The output must be like:
 
 ```
-
 PARSED: JOHN CHASES THE DOG 
 
 --------------------PARSE 1--------------------
@@ -73,16 +72,7 @@ PARSED: THE DOGS SLEEP
 
 --------------------PARSE 1--------------------
 
-[(> (< (> the (< dog pl)) nom) (< sleep pl)) = s : sleep'(the'(pl'dog')) ]
-
-------------------------------------------------
-
-
-PARSED: THE DOGS SLEEP 
-
---------------------PARSE 2--------------------
-
-[(> (< (> the dog) (b< pl nom)) (< sleep pl)) = s : sleep'(pl'(the'dog')) ]
+[(> (< (> the (< dog pl)) nom) (< sleep pl)) = s : sleep'(the'dog') ]
 
 ------------------------------------------------
 
